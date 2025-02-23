@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
@@ -49,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

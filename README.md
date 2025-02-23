@@ -54,6 +54,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
+| [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->

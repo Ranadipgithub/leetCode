@@ -27,6 +27,7 @@
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
@@ -59,6 +60,7 @@
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |

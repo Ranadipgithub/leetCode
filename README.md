@@ -11,6 +11,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ranadipgithub/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Ranadipgithub/leetCode/tree/master/2434-design-a-number-container-system) |
@@ -116,4 +118,12 @@
 |  |
 | ------- |
 | [3750-closest-equal-element-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3750-closest-equal-element-queries) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

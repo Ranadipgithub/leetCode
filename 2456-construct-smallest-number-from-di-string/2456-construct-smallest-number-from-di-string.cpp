@@ -30,7 +30,10 @@ public:
         for(int i = 1;i<=n+1;i++){
             s += to_string(i);
         }
-        perm(s , start, n, pattern);
-        return ans;
+        // perm(s , start, n, pattern);
+        while(!isMatched(s, pattern)){
+            next_permutation(begin(s), end(s));
+        }
+        return s;
     }
 };

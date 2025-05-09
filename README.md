@@ -20,6 +20,7 @@
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
@@ -104,6 +105,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
@@ -114,6 +116,7 @@
 | [0046-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Breadth-First Search
 |  |
@@ -132,6 +135,7 @@
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0260-single-number-iii) |
+| [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -226,4 +230,8 @@
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

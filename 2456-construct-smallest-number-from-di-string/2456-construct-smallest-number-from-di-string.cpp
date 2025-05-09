@@ -26,13 +26,28 @@ public:
     string smallestNumber(string pattern) {
         int start = 0;
         int n = pattern.size();
-        string s;
-        for(int i = 1;i<=n+1;i++){
-            s += to_string(i);
-        }
-        // perm(s , start, n, pattern);
-        while(!isMatched(s, pattern)){
-            next_permutation(begin(s), end(s));
+        // string s;
+        // for(int i = 1;i<=n+1;i++){
+        //     s += to_string(i);
+        // }
+        // // perm(s , start, n, pattern);
+        // while(!isMatched(s, pattern)){
+        //     next_permutation(begin(s), end(s));
+        // }
+        // return s;
+
+        int cnt = 1;
+        stack<char> st;
+        string s = "";
+        for(int i = 0;i<n+1;i++){
+            st.push(cnt+'0');
+            cnt++;
+            if(i == n || pattern[i] == 'I'){
+                while(!st.empty()){
+                    s += st.top();
+                    st.pop();
+                }
+            }
         }
         return s;
     }

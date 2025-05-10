@@ -36,6 +36,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ranadipgithub/leetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ranadipgithub/leetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -160,6 +161,7 @@
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ranadipgithub/leetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranadipgithub/leetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |

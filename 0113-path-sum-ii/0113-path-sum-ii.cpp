@@ -12,7 +12,7 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    void solve(TreeNode *root, int targetSum, vector<int>v){
+    void solve(TreeNode *root, int targetSum, vector<int>&v){
         if(!root) return;
         v.push_back(root->val);
         if(!root->left && !root->right && root->val == targetSum){

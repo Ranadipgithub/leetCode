@@ -136,6 +136,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
+| [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
+| [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
+| [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,4 +290,5 @@
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
+| [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->

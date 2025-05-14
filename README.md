@@ -162,6 +162,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0260-single-number-iii) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -199,6 +200,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ranadipgithub/leetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
@@ -285,6 +287,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
@@ -314,6 +317,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |

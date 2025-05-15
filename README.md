@@ -313,6 +313,7 @@
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -332,6 +333,7 @@
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
@@ -353,6 +355,7 @@
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -375,5 +378,6 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

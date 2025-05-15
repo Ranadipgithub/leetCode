@@ -331,6 +331,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -353,6 +354,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -380,6 +382,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
@@ -400,5 +403,6 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

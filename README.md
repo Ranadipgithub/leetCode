@@ -309,6 +309,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -335,6 +336,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -388,6 +391,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |

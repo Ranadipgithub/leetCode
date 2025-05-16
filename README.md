@@ -163,6 +163,7 @@
 | [0112-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -355,6 +356,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -420,4 +422,12 @@
 | [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

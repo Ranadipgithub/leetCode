@@ -29,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -151,6 +152,7 @@
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
@@ -182,6 +184,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Ranadipgithub/leetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -482,6 +485,7 @@
 | [0200-number-of-islands](https://github.com/Ranadipgithub/leetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Ranadipgithub/leetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ranadipgithub/leetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ranadipgithub/leetCode/tree/master/1036-rotting-oranges) |

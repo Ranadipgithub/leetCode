@@ -16,10 +16,9 @@ public:
         queue<int> q;
         q.push(node);
         visited[node] = 1;
-        int level = 0;
+        int level = 1;
         while(!q.empty()){
             int size = q.size();
-            level++;
             while(size--){
                 int curr = q.front();
                 q.pop();
@@ -30,8 +29,9 @@ public:
                     q.push(v);
                 }
             }
+            level++;
         }
-        return level;
+        return level-1;
     }
 
     int getMaxGrp(unordered_map<int, vector<int>> &adj, int node, vector<int>&visited, vector<int>&levels){

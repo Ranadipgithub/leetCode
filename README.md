@@ -205,6 +205,7 @@
 | [1876-map-of-highest-peak](https://github.com/Ranadipgithub/leetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -419,6 +420,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -487,12 +489,14 @@
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ranadipgithub/leetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |

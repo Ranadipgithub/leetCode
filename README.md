@@ -196,6 +196,7 @@
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Ranadipgithub/leetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
@@ -412,6 +413,7 @@
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Ranadipgithub/leetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
@@ -503,6 +505,7 @@
 | [0210-course-schedule-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ranadipgithub/leetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -529,5 +532,6 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ranadipgithub/leetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->

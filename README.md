@@ -32,6 +32,7 @@
 | [0542-01-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
+| [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -416,6 +417,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Ranadipgithub/leetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
@@ -509,6 +511,7 @@
 | [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ranadipgithub/leetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -537,5 +540,6 @@
 | [0210-course-schedule-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->

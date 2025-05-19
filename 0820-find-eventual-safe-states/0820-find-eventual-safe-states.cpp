@@ -14,20 +14,53 @@ public:
         return false;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        // int n = graph.size();
+        // vector<int>visited(n,0);
+        // vector<int>inRecursion(n,0);
+        // vector<int>safe;
+        // for(int i = 0;i<n;i++){
+        //     if(!visited[i]){
+        //         dfs(graph, i, visited, inRecursion);
+        //     }
+        // }
+        // for(int i = 0;i<n;i++){
+        //     if(inRecursion[i] == false){
+        //         safe.push_back(i);
+        //     }
+        // }
+        // return safe;
+
         int n = graph.size();
-        vector<int>visited(n,0);
-        vector<int>inRecursion(n,0);
-        vector<int>safe;
-        for(int i = 0;i<n;i++){
-            if(!visited[i]){
-                dfs(graph, i, visited, inRecursion);
+        vector<int> indegree(n,0);
+        vector<vector<int>>adj(n);
+        for(int u = 0;u<n;u++){
+            for(int &v: graph[u]){
+                adj[v].push_back(u);// v--->u reversed
+                indegree[u]++;
             }
         }
+        
+        queue<int>q;
         for(int i = 0;i<n;i++){
-            if(inRecursion[i] == false){
-                safe.push_back(i);
+            if(indegree[i] == 0){
+                q.push(i);
             }
         }
-        return safe;
+
+        vector<int>res;
+        while(!q.empty()){
+            int u = q.front();
+            res.push_back(u);
+            q.pop();
+
+            for(int &v: adj[u]){
+                indegree[v]--;
+                if(indegree[v] == 0){
+                    q.push(v);
+                }
+            }
+        }
+        sort(res.begin(), res.end());
+        return res;
     }
 };

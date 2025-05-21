@@ -16,6 +16,8 @@ public:
             int x = coord.first;
             int y = coord.second;
 
+            if(x == n-1 && y == m-1) return diff;
+
             for(auto dir: direction){
                 int newx = x + dir[0];
                 int newy = y + dir[1];

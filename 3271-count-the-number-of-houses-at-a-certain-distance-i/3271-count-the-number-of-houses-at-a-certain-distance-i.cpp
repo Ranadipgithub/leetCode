@@ -1,37 +1,39 @@
 class Solution {
 public:
     vector<int> countOfPairs(int n, int x, int y) {
-        vector<vector<int>> dist(n, vector<int>(n, 1e9));
-
-        for (int i = 0; i < n - 1; i++) {
-            dist[i][i + 1] = 1;
-            dist[i + 1][i] = 1;
+        vector<vector<int>> grid(n+1, vector<int>(n+1, 100000));
+        
+        for(int j = 1; j < n; j++) {
+            grid[j][j+1] = 1;
+            grid[j+1][j] = 1;
         }
-
-        x--; y--;
-        dist[x][y] = 1;
-        dist[y][x] = 1;
-
-        for (int i = 0; i < n; i++) dist[i][i] = 0;
-
-        for (int k = 0; k < n; k++) {
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
+        grid[x][y] = 1;
+        grid[y][x] = 1;
+        
+        for(int via = 1; via <= n; via++) {
+            
+            for(int i = 1; i <= n; i++) {
+                for(int j = 1; j <= n; j++) {
+                    
+                   grid[i][j] = min(grid[i][j], grid[i][via] + grid[via][j]);
+                    
                 }
             }
         }
+        
+        vector<int> result(n);
+        for(int i = 1; i <= n; i++) {
+            for(int j = 1; j <= n; j++) {
 
-        vector<int> res(n, 0); 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int d = dist[i][j];
-                if (d > 0 && d <= n) {
-                    res[d - 1] += 2; 
+                if(i != j) {
+                    int val = grid[i][j];
+                    result[val-1]++;
                 }
+
             }
         }
-
-        return res;
+        
+        return result;
+        
     }
 };

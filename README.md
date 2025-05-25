@@ -122,6 +122,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Ranadipgithub/leetCode/tree/master/1304-longest-happy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -331,6 +332,7 @@
 | [0933-increasing-order-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack

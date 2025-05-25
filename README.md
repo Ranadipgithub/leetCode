@@ -117,6 +117,7 @@
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Ranadipgithub/leetCode/tree/master/1304-longest-happy-string) |
@@ -301,6 +302,7 @@
 | [0670-maximum-swap](https://github.com/Ranadipgithub/leetCode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Ranadipgithub/leetCode/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -325,6 +327,7 @@
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0933-increasing-order-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0933-increasing-order-search-tree) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |

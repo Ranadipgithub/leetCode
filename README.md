@@ -257,6 +257,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Math
 |  |
 | ------- |
@@ -452,6 +453,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -504,6 +506,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |

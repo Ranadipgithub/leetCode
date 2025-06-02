@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> dp;
-
     int solve(const vector<int>& prices, int i, int lastIdx) {
         int n = prices.size();
         if (i > n) return 0;
@@ -14,7 +13,7 @@ public:
             return dp[i][lastIdx] = prices[i - 1] + solve(prices, i + 1, nextLast);
         }
         int takeFree = solve(prices, i + 1, lastIdx);
-        int extended = min(n, max(lastIdx, 2 * i));
+        int extended = min(n, 2*i);
         int buyAnyway = prices[i - 1] + solve(prices, i + 1, extended);
         return dp[i][lastIdx] = min(takeFree, buyAnyway);
     }

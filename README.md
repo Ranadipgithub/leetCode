@@ -126,6 +126,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
@@ -208,6 +209,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0542-01-matrix) |

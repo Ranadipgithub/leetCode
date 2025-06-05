@@ -118,6 +118,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Ranadipgithub/leetCode/tree/master/0127-word-ladder) |
@@ -198,6 +199,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -383,6 +385,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ranadipgithub/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ranadipgithub/leetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |

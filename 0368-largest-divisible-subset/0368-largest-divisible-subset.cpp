@@ -8,7 +8,7 @@ public:
         // Step 1: Build dp and prevIdx
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < i; j++) {
-                if ((nums[j] % nums[i] == 0) || (nums[i] % nums[j] == 0)) {
+                if (nums[i] % nums[j] == 0) {
                     if (dp[i] < 1 + dp[j]) {
                         dp[i] = 1 + dp[j];
                         prevIdx[i] = j;
@@ -29,10 +29,9 @@ public:
 
         // Step 3: Reconstruct LIS
         vector<int> res;
-        int par = maxiIdx;
-        while (par != -1) {
-            res.push_back(nums[par]);
-            par = prevIdx[par];
+        while (maxiIdx != -1) {
+            res.push_back(nums[maxiIdx]);
+            maxiIdx = prevIdx[maxiIdx];
         }
 
         reverse(res.begin(), res.end()); // since we built it backwards

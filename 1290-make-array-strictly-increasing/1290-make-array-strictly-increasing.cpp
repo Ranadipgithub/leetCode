@@ -1,33 +1,33 @@
 class Solution {
 public:
-    unordered_map<string, int>mpp;
-    int solve(vector<int>& arr1, vector<int>& arr2, int i, int prevVal) {
-        if (i == arr1.size()) {
+    map<pair<int, int>, int> mp;
+    int solve(int idx, vector<int>& arr1, vector<int>& arr2, int prev) {
+        if(idx == arr1.size())
             return 0;
+        int result1 = 1e9+1;
+        if(mp.find({idx, prev}) != mp.end())
+            return mp[{idx, prev}];
+        
+        if(arr1[idx] > prev) {
+            result1 = solve(idx+1, arr1, arr2, arr1[idx]);
         }
-        string key = to_string(i) + "_" + to_string(prevVal);
-        if(mpp.count(key)) return mpp[key];
-        int ops = INT_MAX;
-        // Option 1: keep arr1[i] if it's valid
-        if (arr1[i] > prevVal) {
-            ops = solve(arr1, arr2, i + 1, arr1[i]);
+        
+        int result2 = 1e9+1;
+        auto it = upper_bound(begin(arr2), end(arr2), prev);
+        if(it != end(arr2)) {
+            int i = it - begin(arr2);
+            result2 = 1 + solve(idx+1, arr1, arr2, arr2[i]);
         }
-        // Option 2: replace arr1[i] with next greater in arr2
-        auto it = upper_bound(arr2.begin(), arr2.end(), prevVal);
-        if (it != arr2.end()) {
-            int temp = solve(arr1, arr2, i + 1, *it);
-            if (temp != INT_MAX) {
-                int replaceOps = 1 + temp;
-                ops = min(ops, replaceOps);
-            }
-        }
-
-        return mpp[key] = ops;
+        
+        return mp[{idx, prev}] = min(result1, result2);
     }
-
+    
     int makeArrayIncreasing(vector<int>& arr1, vector<int>& arr2) {
-        sort(arr2.begin(), arr2.end());
-        int ops = solve(arr1, arr2, 0, INT_MIN);
-        return (ops >= 2e9 ? -1 : ops);
+        sort(begin(arr2), end(arr2));
+        mp.clear();
+        int result = solve(0, arr1, arr2, INT_MIN);
+        if(result == 1e9+1)
+            return -1;
+        return result;
     }
 };

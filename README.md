@@ -238,6 +238,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ranadipgithub/leetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Ranadipgithub/leetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ranadipgithub/leetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ranadipgithub/leetCode/tree/master/0238-product-of-array-except-self) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Ranadipgithub/leetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |

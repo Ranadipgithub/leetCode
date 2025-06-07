@@ -53,6 +53,7 @@
 | [1036-rotting-oranges](https://github.com/Ranadipgithub/leetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Ranadipgithub/leetCode/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Ranadipgithub/leetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
@@ -108,6 +109,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -139,6 +141,7 @@
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ranadipgithub/leetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Ranadipgithub/leetCode/tree/master/1304-longest-happy-string) |
@@ -229,6 +232,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -412,6 +416,7 @@
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [2228-watering-plants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -473,6 +478,7 @@
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |

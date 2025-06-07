@@ -55,6 +55,7 @@
 | [1073-number-of-enclaves](https://github.com/Ranadipgithub/leetCode/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/Ranadipgithub/leetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
@@ -235,6 +236,7 @@
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
+| [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ranadipgithub/leetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -381,6 +383,7 @@
 | [0327-count-of-range-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
+| [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
 | [3750-closest-equal-element-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3750-closest-equal-element-queries) |
 ## Stack
@@ -481,6 +484,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
+| [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |

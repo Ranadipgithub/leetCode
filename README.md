@@ -552,6 +552,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0310-minimum-height-trees) |
+| [0386-lexicographical-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Ranadipgithub/leetCode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ranadipgithub/leetCode/tree/master/0463-island-perimeter) |
@@ -747,4 +748,8 @@
 |  |
 | ------- |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ranadipgithub/leetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

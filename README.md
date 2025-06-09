@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Ranadipgithub/leetCode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
@@ -222,6 +223,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ranadipgithub/leetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -708,6 +710,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ranadipgithub/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranadipgithub/leetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Ranadipgithub/leetCode/tree/master/0419-battleships-in-a-board) |

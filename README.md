@@ -219,6 +219,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ranadipgithub/leetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -324,6 +325,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
@@ -760,6 +762,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Monotonic Queue

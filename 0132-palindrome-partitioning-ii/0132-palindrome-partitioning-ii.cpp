@@ -2,32 +2,28 @@ class Solution {
 public:
     int minCut(string s) {
         int n = s.size();
-        vector<vector<bool>> pal(n, vector<bool>(n, false));
-        for (int i = 0; i < n; i++) {
-            pal[i][i] = true;
+        vector<vector<bool>> t(n, vector<bool>(n, false));
+        for(int l = 1;l<=n;l++){
+            for(int i = 0;i+l-1<n;i++){
+                int j = i+l-1;
+                if(i == j) t[i][j] = true;
+                else if(i+1 == j) t[i][j] = s[i] == s[j];
+                else t[i][j] = s[i] == s[j] && t[i+1][j-1];
+            }
         }
-        for (int L = 2; L <= n; L++) {
-            for (int i = 0; i <= n - L; i++) {
-                int j = i + L - 1;
-                if (s[i] == s[j]) {
-                    pal[i][j] = (L == 2) ? true : pal[i+1][j-1];
-                } else {
-                    pal[i][j] = false;
+
+        vector<int> dp(n, INT_MAX);
+        dp[0] = 0;
+        for(int i = 1;i<n;i++){
+            if(t[0][i]) dp[i] = 0; // no cuts required
+            else{
+                for(int k = 0;k<i;k++){
+                    if(t[k+1][i] && 1 + dp[k] < dp[i]){
+                        dp[i] = 1+dp[k];
+                    }
                 }
             }
         }
-        
-        vector<int> dp(n + 1, INT_MAX);
-        dp[0] = -1; 
-        
-        for (int i = 1; i <= n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (pal[j][i - 1]) { 
-                    dp[i] = min(dp[i], dp[j] + 1);
-                }
-            }
-        }
-        
-        return dp[n];
+        return dp[n-1];
     }
 };

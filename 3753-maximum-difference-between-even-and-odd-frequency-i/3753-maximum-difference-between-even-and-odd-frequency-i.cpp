@@ -2,20 +2,16 @@ class Solution {
 public:
     int maxDifference(string s) {
         int n = s.size();
-        unordered_map<char, int> fq;
-        for(int i = 0;i<n;i++){
-            fq[s[i]]++;
+        unordered_map<char, int> mpp;
+        for(int i = 0;i < n;i++){
+            mpp[s[i]]++;
         }
-        int maxiOdd = 0, maxiEven = 0, miniEven = INT_MAX, res = INT_MIN;
-        for(auto it: fq){
-            if(it.second%2 == 1) maxiOdd = max(maxiOdd, it.second);
-            else{
-                // maxiEven = max(maxiEven, it.second);
-                miniEven = min(miniEven, it.second);
-            } 
-            
+        int maxOddFq = 0, minEvenFq = n;
+        for(auto it: mpp){
+            int fq = it.second;
+            if(fq % 2 == 1) maxOddFq = max(maxOddFq, fq);
+            else minEvenFq = min(minEvenFq, fq);
         }
-        // return max(maxiOdd-miniEven, maxiOdd-maxiEven);
-        return maxiOdd-miniEven;
+        return maxOddFq - minEvenFq;
     }
 };

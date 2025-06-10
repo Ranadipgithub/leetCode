@@ -10,11 +10,12 @@ public:
         for(auto it: fq){
             if(it.second%2 == 1) maxiOdd = max(maxiOdd, it.second);
             else{
-                maxiEven = max(maxiEven, it.second);
+                // maxiEven = max(maxiEven, it.second);
                 miniEven = min(miniEven, it.second);
             } 
             
         }
-        return max(maxiOdd-miniEven, maxiOdd-maxiEven);
+        // return max(maxiOdd-miniEven, maxiOdd-maxiEven);
+        return maxiOdd-miniEven;
     }
 };

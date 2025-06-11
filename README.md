@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Ranadipgithub/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ranadipgithub/leetCode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
@@ -474,6 +476,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0215-kth-largest-element-in-an-array) |

@@ -25,6 +25,7 @@
 | [0200-number-of-islands](https://github.com/Ranadipgithub/leetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ranadipgithub/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
@@ -112,6 +113,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Ranadipgithub/leetCode/tree/master/0127-word-ladder) |
+| [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -179,6 +181,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
@@ -522,6 +525,7 @@
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranadipgithub/leetCode/tree/master/0646-maximum-length-of-pair-chain) |

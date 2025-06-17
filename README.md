@@ -361,6 +361,7 @@
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ranadipgithub/leetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -803,6 +804,7 @@
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ranadipgithub/leetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |

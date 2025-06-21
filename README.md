@@ -134,6 +134,7 @@
 | [2434-design-a-number-container-system](https://github.com/Ranadipgithub/leetCode/tree/master/2434-design-a-number-container-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ranadipgithub/leetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -177,6 +178,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ranadipgithub/leetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -192,6 +194,7 @@
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ranadipgithub/leetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -428,6 +431,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ranadipgithub/leetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ranadipgithub/leetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranadipgithub/leetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
@@ -561,6 +565,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ranadipgithub/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Bitmask
 |  |
 | ------- |

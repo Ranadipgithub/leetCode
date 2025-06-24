@@ -36,6 +36,7 @@
 | [0327-count-of-range-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0327-count-of-range-sum) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Ranadipgithub/leetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Ranadipgithub/leetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ranadipgithub/leetCode/tree/master/0463-island-perimeter) |
@@ -266,6 +267,7 @@
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Ranadipgithub/leetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
@@ -408,6 +410,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ranadipgithub/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Ranadipgithub/leetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -421,6 +424,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Ranadipgithub/leetCode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranadipgithub/leetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Ranadipgithub/leetCode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
@@ -451,6 +455,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ranadipgithub/leetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |

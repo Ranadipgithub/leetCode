@@ -371,6 +371,7 @@
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ranadipgithub/leetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ranadipgithub/leetCode/tree/master/0670-maximum-swap) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -465,6 +466,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ranadipgithub/leetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0907-koko-eating-bananas) |

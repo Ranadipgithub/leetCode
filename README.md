@@ -873,4 +873,12 @@
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1185-find-in-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

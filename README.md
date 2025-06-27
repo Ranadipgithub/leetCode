@@ -520,6 +520,7 @@
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ranadipgithub/leetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
@@ -556,6 +557,7 @@
 | [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ranadipgithub/leetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0327-count-of-range-sum) |
@@ -581,6 +583,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ranadipgithub/leetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
@@ -591,6 +594,7 @@
 | [0016-3sum-closest](https://github.com/Ranadipgithub/leetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
@@ -887,6 +891,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranadipgithub/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ranadipgithub/leetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |

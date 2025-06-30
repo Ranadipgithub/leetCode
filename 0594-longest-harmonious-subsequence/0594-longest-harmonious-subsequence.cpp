@@ -2,10 +2,6 @@ class Solution {
 public:
     int findLHS(vector<int>& nums) {
         int n = nums.size();
-        map<int, int> fq;
-        for(auto it: nums){
-            fq[it]++;
-        }
         sort(nums.begin(), nums.end());
         int i = 0, j = 0;
         int maxCnt = 0;

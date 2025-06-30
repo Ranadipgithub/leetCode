@@ -1,19 +1,17 @@
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-        int i = 0, j = 0;
-        int maxCnt = 0;
-        while(j<n){
-            if(nums[j]-nums[i] == 1){
-                maxCnt = max(maxCnt, j-i+1);
-            }
-            else if(nums[j] - nums[i] > 1){
-                while(j>i && nums[j]-nums[i] != 1) i++;
-            }
-            j++;
+        unordered_map<int, int> freq;
+        int res = 0;
+        
+        for (int num : nums)
+            freq[num]++;
+        
+        for (auto& [key, val] : freq) {
+            if (freq.count(key + 1))
+                res = max(res, val + freq[key + 1]);
         }
-        return maxCnt;
+        
+        return res;  
     }
 };

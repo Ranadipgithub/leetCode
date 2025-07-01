@@ -6,6 +6,6 @@ public:
         if(n == 1)
             return true;
         
-        return (n&(n-1)) == 0;
+        return __builtin_popcount(n) == 1;
     }
 };

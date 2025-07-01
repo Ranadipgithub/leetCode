@@ -403,6 +403,7 @@
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ranadipgithub/leetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
@@ -430,6 +431,7 @@
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
@@ -954,6 +956,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ranadipgithub/leetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
 ## Radix Sort
 |  |
 | ------- |

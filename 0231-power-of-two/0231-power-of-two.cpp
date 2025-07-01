@@ -6,6 +6,6 @@ public:
         if(n == 1)
             return true;
         
-        return n%2 == 0 && isPowerOfTwo(n/2);
+        return (n&(n-1)) == 0;
     }
 };

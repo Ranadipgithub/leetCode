@@ -116,6 +116,7 @@
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
 | [2551-apply-operations-to-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -167,6 +168,7 @@
 | [2434-design-a-number-container-system](https://github.com/Ranadipgithub/leetCode/tree/master/2434-design-a-number-container-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -335,6 +337,7 @@
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ranadipgithub/leetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -356,6 +359,7 @@
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -421,6 +425,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ranadipgithub/leetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -680,6 +685,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ranadipgithub/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Bitmask
@@ -935,6 +941,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ranadipgithub/leetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |

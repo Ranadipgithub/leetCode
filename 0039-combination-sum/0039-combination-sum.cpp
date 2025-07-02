@@ -5,17 +5,17 @@ public:
             res.push_back(temp);
             return;
         }
-        if (target < 0) return; 
 
-        for (int i = idx; i < candidates.size(); i++) {
-            temp.push_back(candidates[i]);
-            solve(i, candidates, target - candidates[i], res, temp);
-            temp.pop_back();
-        }
+        if (idx >= candidates.size() || target < 0) return;
+
+        temp.push_back(candidates[idx]);
+        solve(idx, candidates, target - candidates[idx], res, temp);
+        temp.pop_back();
+
+        solve(idx + 1, candidates, target, res, temp); 
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end()); 
         vector<vector<int>> res;
         vector<int> temp;
         solve(0, candidates, target, res, temp);

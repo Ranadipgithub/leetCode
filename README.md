@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ranadipgithub/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Ranadipgithub/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ranadipgithub/leetCode/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/Ranadipgithub/leetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ranadipgithub/leetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranadipgithub/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Ranadipgithub/leetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -342,6 +344,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ranadipgithub/leetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ranadipgithub/leetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
@@ -866,6 +869,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ranadipgithub/leetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |

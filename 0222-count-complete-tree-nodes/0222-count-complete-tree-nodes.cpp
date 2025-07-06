@@ -11,14 +11,25 @@
  */
 class Solution {
 public:
+    
+    void solve(TreeNode *root, int &cnt){
+        if(root == NULL) return;
+        cnt++;
+        solve(root->left, cnt);
+        solve(root->right, cnt);
+    }
     int countNodes(TreeNode* root) {
         if(!root) return 0;
-        int lh = findLH(root);
-        int rh = findRH(root);
+        int cnt = 0;
+        solve(root, cnt);
+        return cnt;
 
-        if(lh == rh) return (1<<lh)-1;
+        // int lh = findLH(root);
+        // int rh = findRH(root);
 
-        return 1+countNodes(root->left) + countNodes(root->right);
+        // if(lh == rh) return (1<<lh)-1;
+
+        // return 1+countNodes(root->left) + countNodes(root->right);
     }
 
     int findLH(TreeNode *root){

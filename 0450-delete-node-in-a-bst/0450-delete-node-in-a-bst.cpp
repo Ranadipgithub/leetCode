@@ -1,42 +1,42 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    TreeNode* findLastRight(TreeNode* root) {
-        while (root->right) {
-            root = root->right;
+    TreeNode *findInorderSuccesser(TreeNode *root){// leftmost node in right subtree
+        while(root && root->left){
+            root = root->left;
         }
         return root;
     }
 
-    TreeNode* helper(TreeNode* root) {
-        if (!root->left) return root->right;
-        if (!root->right) return root->left;
-
-        TreeNode* leftSubtree = root->left;
-        TreeNode* rightmost = findLastRight(leftSubtree);
-        rightmost->right = root->right;
-        return leftSubtree;
-    }
-
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if (!root) return nullptr;
-        if (root->val == key) return helper(root);
-
-        TreeNode* curr = root;
-        while (curr) {
-            if (key < curr->val) {
-                if (curr->left && curr->left->val == key) {
-                    curr->left = helper(curr->left);
-                    break;
-                } else {
-                    curr = curr->left;
-                }
-            } else {
-                if (curr->right && curr->right->val == key) {
-                    curr->right = helper(curr->right);
-                    break;
-                } else {
-                    curr = curr->right;
-                }
+        if(root == NULL) return root;
+        if(key < root->val){
+            root->left = deleteNode(root->left, key);
+        } else if(key > root->val){
+            root->right = deleteNode(root->right, key);
+        } else{
+            if(root->left == NULL){
+                TreeNode *temp = root->right;
+                delete root;
+                return temp;
+            } else if(root->right == NULL){
+                TreeNode *temp  = root->left;
+                delete root;
+                return temp;
+            } else{
+                TreeNode *is = findInorderSuccesser(root->right);
+                root->val = is->val;
+                root->right = deleteNode(root->right, is->val);
             }
         }
         return root;

@@ -83,6 +83,7 @@
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1185-find-in-mountain-array) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/Ranadipgithub/leetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
@@ -164,6 +165,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -758,6 +760,7 @@
 | [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -811,6 +814,7 @@
 | [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Ranadipgithub/leetCode/tree/master/1073-number-of-enclaves) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -861,6 +865,7 @@
 | [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching

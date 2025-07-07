@@ -749,6 +749,7 @@
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -795,6 +796,7 @@
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ranadipgithub/leetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Ranadipgithub/leetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
@@ -855,6 +857,7 @@
 | [0437-path-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -889,6 +892,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ranadipgithub/leetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0799-minimum-distance-between-bst-nodes) |

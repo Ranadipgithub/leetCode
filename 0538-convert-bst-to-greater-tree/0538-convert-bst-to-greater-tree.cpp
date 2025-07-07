@@ -11,35 +11,27 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int> &res){
-        if(root == NULL) return;
-        inorder(root->left, res);
-        res.push_back(root->val);
-        inorder(root->right, res);
-    }
 
-    void populate(TreeNode* &root, vector<int> &ans, int &i){ 
-        if(root == NULL) return;
-        populate(root->left, ans, i);
-        root->val = ans[i++];
-        populate(root->right, ans, i);
+    void solve(TreeNode* root, int &sum) {
+        if(!root) { 
+            return;
+        }
+
+        
+        solve(root->right, sum); 
+        
+        sum += root->val;
+
+        root->val = sum;
+
+        solve(root->left, sum); 
     }
 
     TreeNode* convertBST(TreeNode* root) {
-        vector<int> res;
-        inorder(root, res);
+        int sum = 0;
 
-        int n = res.size();
-        vector<int> ans(n, 0);
-        int sum = accumulate(res.begin(), res.end(), 0);
-        int prev = 0;
-        for(int i = 0;i<n;i++){
-            ans[i] = sum - prev;
-            prev += res[i];
-        }
+        solve(root, sum);
 
-        int i = 0;
-        populate(root, ans, i);
         return root;
     }
 };

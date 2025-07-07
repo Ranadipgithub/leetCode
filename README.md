@@ -311,6 +311,7 @@
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ranadipgithub/leetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ranadipgithub/leetCode/tree/master/0131-palindrome-partitioning) |
@@ -434,6 +435,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ranadipgithub/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
@@ -729,6 +731,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0101-symmetric-tree) |
@@ -843,6 +846,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0101-symmetric-tree) |
@@ -897,6 +901,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |

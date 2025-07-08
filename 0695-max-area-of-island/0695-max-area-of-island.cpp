@@ -19,9 +19,11 @@ public:
         int area = 0, maxarea = 0;
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
-                int area = 0;
-                bfs(grid, i, j, area);
-                maxarea = max(area, maxarea);
+                if(grid[i][j] == 1){
+                    int area = 0;
+                    bfs(grid, i, j, area);
+                    maxarea = max(area, maxarea);
+                }
             }
         }
         return maxarea;

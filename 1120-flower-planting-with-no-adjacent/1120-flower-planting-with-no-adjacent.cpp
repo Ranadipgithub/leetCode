@@ -1,46 +1,34 @@
 class Solution {
 public:
+    bool isSafe(int node, vector<int>&color, vector<vector<int>>&adj){
+        for(auto x : adj[node]){
+            if(color[node] == color[x]) return false;
+        }
+        return true;
+    }
+
+    bool solve(int node, int n, vector<int>&color, vector<vector<int>>&adj){
+        if(node == n) return true;
+
+        for(int i=1; i<=4; i++){
+            color[node] = i;
+            if(isSafe(node, color, adj)) if(solve(node+1, n, color, adj)) return true;
+            color[node] = -1;
+        }
+        return false;
+    }
+
     vector<int> gardenNoAdj(int n, vector<vector<int>>& paths) {
-        vector<vector<int>> adj(n+1);
-        for (auto &p : paths) {
-            adj[p[0]].push_back(p[1]);
-            adj[p[1]].push_back(p[0]);
+        vector<vector<int>> adj(n);
+        for(auto x : paths){
+            int u = x[0]-1;
+            int v = x[1]-1;
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-        
-        vector<int> answer(n, 0);
-        vector<bool> seen(n+1, false);
-        
-        for (int start = 1; start <= n; ++start) {
-            if (seen[start]) continue;
-            
-            queue<int> q;
-            q.push(start);
-            answer[start-1] = 1;
-            seen[start] = true;
-            
-            while (!q.empty()) {
-                int u = q.front(); q.pop();
-                
-                for (int v : adj[u]) {
-                    if (!seen[v]) {
-                        bool used[5] = {false};
-                        for (int w : adj[v]) {
-                            if (answer[w-1] != 0)
-                                used[ answer[w-1] ] = true;
-                        }
-                        for (int c = 1; c <= 4; ++c) {
-                            if (!used[c]) {
-                                answer[v-1] = c;
-                                break;
-                            }
-                        }
-                        seen[v] = true;
-                        q.push(v);
-                    }
-                }
-            }
-        }
-        
-        return answer;
+
+        vector<int> color(n, -1);
+        solve(0, n, color, adj);
+        return color;
     }
 };

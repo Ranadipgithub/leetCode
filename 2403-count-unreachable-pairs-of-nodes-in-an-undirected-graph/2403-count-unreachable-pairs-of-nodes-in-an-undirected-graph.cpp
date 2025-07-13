@@ -30,11 +30,20 @@ public:
             }
         }
 
-        long long ans = 0, sum = 0;
-        for (int sz : componentSize) {
-            ans += 1LL * sz * (n - sz - sum);
-            sum += sz;
+        long long sum = accumulate(componentSize.begin(), componentSize.end(), 0);
+        long long prev = 0;
+        long long ans = 0;
+
+        for(int i = 0;i<componentSize.size();i++){
+            prev += componentSize[i];
+            ans += componentSize[i]*(sum-prev);
         }
+
+        // long long ans = 0, sum = 0;
+        // for (int sz : componentSize) {
+        //     ans += 1LL * sz * (n - sz - sum);
+        //     sum += sz;
+        // }
 
         return ans;
     }

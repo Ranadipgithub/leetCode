@@ -1,50 +1,73 @@
+//DSU : Time complexity: O(V+E) ,  Here 'V' is the number of nodes and 'E' is the total number edges.
 class Solution {
 public:
-    int dfs(int node, vector<int>& visited, unordered_map<int, vector<int>>& adj) {
-        visited[node] = 1;
-        int nodes = 1; 
-        for (auto& v : adj[node]) {
-            if (!visited[v]) {
-                nodes += dfs(v, visited, adj);
-            }
-        }
-        return nodes;
+    
+    vector<int> parent;
+    vector<int> rank;
+
+    int find (int x) {
+        if (x == parent[x]) 
+            return x;
+
+        return parent[x] = find(parent[x]);
     }
 
+    void Union (int x, int y) {
+        int x_parent = find(x);
+        int y_parent = find(y);
+
+        if (x_parent == y_parent) 
+            return;
+
+        if(rank[x_parent] > rank[y_parent]) {
+            parent[y_parent] = x_parent;
+        } else if(rank[x_parent] < rank[y_parent]) {
+            parent[x_parent] = y_parent;
+        } else {
+            parent[x_parent] = y_parent;
+            rank[y_parent]++;
+        }
+    }
+    
     long long countPairs(int n, vector<vector<int>>& edges) {
-        unordered_map<int, vector<int>> adj;
-        for (auto& edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+     
+        parent.resize(n);
+        rank.resize(n, 0);
+        
+        for(int i = 0; i<n; i++) {
+            parent[i] = i;
         }
-
-        vector<int> visited(n, 0);
-        vector<int> componentSize;
-
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                int size = dfs(i, visited, adj);
-                componentSize.push_back(size);
-            }
+        
+        for(auto &vec : edges) {
+            
+            int u = vec[0];
+            int v = vec[1];
+            
+            Union(u, v);
+            
         }
-
-        long long sum = accumulate(componentSize.begin(), componentSize.end(), 0);
-        long long prev = 0;
-        long long ans = 0;
-
-        for(int i = 0;i<componentSize.size();i++){
-            prev += componentSize[i];
-            ans += componentSize[i]*(sum-prev);
+       
+        unordered_map<int, int> mp;
+        
+        for(int i = 0; i<n; i++) {
+            int papa = find(i);
+            mp[papa]++;
         }
-
-        // long long ans = 0, sum = 0;
-        // for (int sz : componentSize) {
-        //     ans += 1LL * sz * (n - sz - sum);
-        //     sum += sz;
-        // }
-
-        return ans;
+        
+        long long result = 0;
+        long long remainingNodes = n;
+        
+        for(auto &it : mp) {
+            
+            long long size = it.second;
+            
+            result += (size) * (remainingNodes-size);
+            
+            remainingNodes -= size;
+            
+        }
+        
+        return result;
+        
     }
 };

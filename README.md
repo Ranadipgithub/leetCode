@@ -296,6 +296,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ranadipgithub/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ranadipgithub/leetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/Ranadipgithub/leetCode/tree/master/2434-design-a-number-container-system) |
@@ -358,6 +359,7 @@
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Ranadipgithub/leetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ranadipgithub/leetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ranadipgithub/leetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
@@ -989,6 +991,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ranadipgithub/leetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ranadipgithub/leetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ranadipgithub/leetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
@@ -1036,6 +1039,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Ranadipgithub/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ranadipgithub/leetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ranadipgithub/leetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -1047,6 +1051,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ranadipgithub/leetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ranadipgithub/leetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ranadipgithub/leetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bucket Sort
 |  |

@@ -449,6 +449,7 @@
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -872,6 +873,7 @@
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -974,6 +976,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -1003,6 +1006,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ranadipgithub/leetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |

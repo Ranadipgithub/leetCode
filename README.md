@@ -77,6 +77,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Ranadipgithub/leetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Ranadipgithub/leetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -218,6 +219,7 @@
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Ranadipgithub/leetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ranadipgithub/leetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
@@ -961,6 +963,7 @@
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Ranadipgithub/leetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Ranadipgithub/leetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ranadipgithub/leetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Ranadipgithub/leetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
@@ -985,6 +988,7 @@
 | [0871-keys-and-rooms](https://github.com/Ranadipgithub/leetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Ranadipgithub/leetCode/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Ranadipgithub/leetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |

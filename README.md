@@ -122,6 +122,7 @@
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2227-sum-of-subarray-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -633,6 +634,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ranadipgithub/leetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -644,6 +646,7 @@
 | [0503-next-greater-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ranadipgithub/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |

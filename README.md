@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/Ranadipgithub/leetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ranadipgithub/leetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
@@ -619,6 +621,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0503-next-greater-element-ii) |
@@ -633,6 +636,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -643,6 +647,7 @@
 | [0015-3sum](https://github.com/Ranadipgithub/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ranadipgithub/leetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranadipgithub/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ranadipgithub/leetCode/tree/master/0141-linked-list-cycle) |

@@ -211,6 +211,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0126-word-ladder-ii) |
@@ -328,6 +329,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
@@ -569,6 +571,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Ranadipgithub/leetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranadipgithub/leetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1152,6 +1155,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ranadipgithub/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |

@@ -152,6 +152,7 @@
 | [3429-special-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ranadipgithub/leetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranadipgithub/leetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -392,6 +393,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ranadipgithub/leetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |

@@ -123,6 +123,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ranadipgithub/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -470,6 +471,7 @@
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |

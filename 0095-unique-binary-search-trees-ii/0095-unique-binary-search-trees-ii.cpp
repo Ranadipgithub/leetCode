@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    vector<int> result;
+    vector<TreeNode *> result;
     map<pair<int, int>, vector<TreeNode *>> mpp;
     vector<TreeNode *> solve(int sidx, int eidx){
         if(sidx > eidx) return {nullptr};
@@ -19,7 +19,7 @@ public:
             TreeNode *newNode = new TreeNode(sidx);
             return {newNode};
         }
-
+        
         if(mpp.find({sidx, eidx}) != mpp.end()) return mpp[{sidx, eidx}];
 
         vector<TreeNode *> result;

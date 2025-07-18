@@ -11,10 +11,13 @@
  */
 class Solution {
 public:
+    map<int, vector<TreeNode *>> mpp;
     vector<TreeNode *> solve(int n){
         if(n == 1){
             return {new TreeNode(0)};
         }
+
+        if(mpp.find(n) != mpp.end()) return mpp[n];
 
         vector<TreeNode *> result;
 
@@ -22,7 +25,7 @@ public:
             int rightCount = n - 1 - leftCount;
             vector<TreeNode *> left = solve(leftCount);
             vector<TreeNode *> right = solve(rightCount);
-            
+
             for(TreeNode *leftRoot : left){
                 for(TreeNode *rightRoot : right){
                     TreeNode *root = new TreeNode(0);
@@ -32,7 +35,7 @@ public:
                 }
             }
         }
-        return result;
+        return mpp[n] = result;
     }
 
     vector<TreeNode*> allPossibleFBT(int n) {

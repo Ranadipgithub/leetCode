@@ -1,20 +1,17 @@
 class Solution {
-public:
-    int numTrees(int n) {
-        vector<int> dp(n + 1, 0);
-        dp[0] = 1; 
-        dp[1] = 1; 
-
-        for (int i = 2; i <= n; ++i) {
-            int sum = 0;
-            for (int j = 1; j <= i; ++j) {
-                int numsLeft = j-1;
-                int numsRight = i-j;
-                sum += dp[numsLeft] * dp[numsRight];
-            }
-            dp[i] = sum;
+public: 
+    
+    int solve(int n){
+        if(n == 0 || n == 1) return 1;
+        int cnt = 0;
+        for(int i = 1;i<=n;i++){
+            int numsLeft = i-1;
+            int numsRight = n-i;
+            cnt += solve(numsLeft) * solve(numsRight);
         }
-
-        return dp[n];
+        return cnt;
+    }
+    int numTrees(int n) {
+        return solve(n);
     }
 };

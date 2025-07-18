@@ -342,6 +342,7 @@
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Ranadipgithub/leetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ranadipgithub/leetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -412,6 +413,7 @@
 | [0077-combinations](https://github.com/Ranadipgithub/leetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ranadipgithub/leetCode/tree/master/0131-palindrome-partitioning) |
@@ -802,6 +804,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
@@ -927,6 +930,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
@@ -982,6 +986,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |

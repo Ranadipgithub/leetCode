@@ -12,12 +12,15 @@
 class Solution {
 public:
     vector<int> result;
+    map<pair<int, int>, vector<TreeNode *>> mpp;
     vector<TreeNode *> solve(int sidx, int eidx){
         if(sidx > eidx) return {nullptr};
         if(sidx == eidx) {
             TreeNode *newNode = new TreeNode(sidx);
             return {newNode};
         }
+
+        if(mpp.find({sidx, eidx}) != mpp.end()) return mpp[{sidx, eidx}];
 
         vector<TreeNode *> result;
         for(int i = sidx;i<=eidx;i++){
@@ -34,7 +37,7 @@ public:
                 }
             }
         }
-        return result;
+        return mpp[{sidx, eidx}] = result;
     }
 
     vector<TreeNode*> generateTrees(int n) {

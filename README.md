@@ -348,6 +348,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ranadipgithub/leetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Ranadipgithub/leetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -432,6 +433,7 @@
 | [0200-number-of-islands](https://github.com/Ranadipgithub/leetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ranadipgithub/leetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Ranadipgithub/leetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
@@ -490,6 +492,7 @@
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Ranadipgithub/leetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ranadipgithub/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |

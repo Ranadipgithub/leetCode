@@ -195,6 +195,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -254,6 +255,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -554,6 +556,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -1012,6 +1015,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1225,4 +1229,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

@@ -194,6 +194,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -251,6 +252,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -278,6 +280,7 @@
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -567,6 +570,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

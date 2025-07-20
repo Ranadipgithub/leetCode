@@ -179,6 +179,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
@@ -238,6 +239,7 @@
 | [0474-ones-and-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
@@ -565,6 +567,7 @@
 | [0076-minimum-window-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ranadipgithub/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -714,6 +717,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |

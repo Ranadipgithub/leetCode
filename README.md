@@ -1257,4 +1257,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ranadipgithub/leetCode/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ranadipgithub/leetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

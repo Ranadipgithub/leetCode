@@ -2,36 +2,34 @@ class Solution {
 public:
     int sumSubarrayMins(vector<int>& arr) {
         int n = arr.size();
-        vector<pair<int, int>> prevSmall(n);
-        stack<pair<int, int>> st;
+        vector<int> prevSmall(n);
+        stack<int> st;
 
         for(int i = 0; i < n; i++){
-            while(!st.empty() && st.top().first >= arr[i]){
+            while(!st.empty() && arr[st.top()] >= arr[i]){
                 st.pop();
             }
-            prevSmall[i] = st.empty() ? make_pair(-1, -1) : st.top();
-            st.push({arr[i], i});
+            prevSmall[i] = st.empty() ? -1 : st.top();
+            st.push(i);
         }
 
-        st = stack<pair<int, int>>();
+        while(!st.empty()) st.pop();
 
-        vector<pair<int, int>> nextSmall(n);
+        vector<int> nextSmall(n);
         for(int i = n - 1; i >= 0; i--){
-            while(!st.empty() && st.top().first > arr[i]){ 
+            while(!st.empty() && arr[st.top()] > arr[i]){
                 st.pop();
             }
-            nextSmall[i] = st.empty() ? make_pair(-1, n) : st.top();
-            st.push({arr[i], i});
+            nextSmall[i] = st.empty() ? n : st.top();
+            st.push(i);
         }
 
         long long cnt = 0;
         const int MOD = 1e9 + 7;
 
         for(int i = 0; i < n; i++){
-            int nextSmallerIndex = nextSmall[i].second;
-            int prevSmallerIndex = prevSmall[i].second;
-            long long left = i - prevSmallerIndex;
-            long long right = nextSmallerIndex - i;
+            long long left = i - prevSmall[i];
+            long long right = nextSmall[i] - i;
             cnt = (cnt + arr[i] * left % MOD * right % MOD) % MOD;
         }
 

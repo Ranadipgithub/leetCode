@@ -102,6 +102,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Ranadipgithub/leetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/Ranadipgithub/leetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
@@ -851,6 +852,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Ranadipgithub/leetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ranadipgithub/leetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1158,6 +1160,7 @@
 | [1073-number-of-enclaves](https://github.com/Ranadipgithub/leetCode/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Ranadipgithub/leetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |

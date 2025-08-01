@@ -1,39 +1,24 @@
 class Solution {
 public:
-    vector<int> leftShift(vector<int> arr, int k){
-        int n = arr.size();
-        reverse(arr.begin(), arr.end());
-        reverse(arr.begin(), arr.begin()+n-k);
-        reverse(arr.begin()+n-k, arr.end());
-        return arr;
-    }
-    vector<int> rightShift(vector<int> arr, int k){
-        int n = arr.size();
-        reverse(arr.begin(), arr.end());
-        reverse(arr.begin(), arr.begin()+k);
-        reverse(arr.begin()+k, arr.end());
-        return arr;
-    }
-    bool areSimilar(vector<vector<int>>& mat, int k) {
-        int n = mat.size();
-        int m = mat[0].size();
-
-        vector<vector<int>> res = mat;
-
-        k = k%m;
-        for(int i= 0;i<n;i++){
-            if(i%2 == 0){
-                res[i] = leftShift(mat[i], k);
-            } else{
-                res[i] = rightShift(mat[i], k);
-            }
+  bool areSimilar(vector<vector<int>> &mat, int k) {
+    int m = mat.size();
+    int n = mat[0].size();
+    for (int i = 0; i < m; ++i) {
+      int shift = k % n;
+      for (int j = 0; j < n; ++j) {
+        int orig_j;
+        if (i % 2 == 0) {
+          // even-indexed row: left shift
+          orig_j = (j + shift) % n;
+        } else {
+          // odd-indexed row: right shift
+          orig_j = (j - shift + n) % n;
         }
-
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(mat[i][j] != res[i][j]) return false;
-            }
+        if (mat[i][j] != mat[i][orig_j]) {
+          return false;
         }
-        return true;
+      }
     }
+    return true;
+  }
 };

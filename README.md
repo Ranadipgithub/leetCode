@@ -131,6 +131,7 @@
 | [1876-map-of-highest-peak](https://github.com/Ranadipgithub/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ranadipgithub/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1972-rotating-the-box](https://github.com/Ranadipgithub/leetCode/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
@@ -777,6 +778,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ranadipgithub/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1972-rotating-the-box](https://github.com/Ranadipgithub/leetCode/tree/master/1972-rotating-the-box) |
 | [2228-watering-plants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1178,6 +1180,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ranadipgithub/leetCode/tree/master/1876-map-of-highest-peak) |
+| [1972-rotating-the-box](https://github.com/Ranadipgithub/leetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |

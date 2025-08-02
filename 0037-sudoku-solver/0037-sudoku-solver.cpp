@@ -11,7 +11,7 @@ public:
         int row = i/3*3, col = j/3*3;
         for(int a = 0;a<3;a++){
             for(int b = 0;b<3;b++){
-                if(board[a+row][b+col] == c) return 0;
+                if((a+row != i) && (b + col != j) && board[a+row][b+col] == c) return 0;
             }
         }
         return 1;

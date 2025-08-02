@@ -108,6 +108,7 @@
 | [1293-three-consecutive-odds](https://github.com/Ranadipgithub/leetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ranadipgithub/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ranadipgithub/leetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -322,6 +323,7 @@
 | [0054-spiral-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Ranadipgithub/leetCode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0898-transpose-matrix) |
+| [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1386-shift-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1386-shift-2d-grid) |
 | [2048-build-array-from-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1177,6 +1179,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ranadipgithub/leetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1386-shift-2d-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |

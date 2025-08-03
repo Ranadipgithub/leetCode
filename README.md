@@ -219,6 +219,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ranadipgithub/leetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -280,6 +281,7 @@
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Ranadipgithub/leetCode/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ranadipgithub/leetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -626,6 +628,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ranadipgithub/leetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ranadipgithub/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |

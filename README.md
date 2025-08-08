@@ -202,6 +202,7 @@
 | [0126-word-ladder-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ranadipgithub/leetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Ranadipgithub/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Ranadipgithub/leetCode/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ranadipgithub/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -352,6 +353,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ranadipgithub/leetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ranadipgithub/leetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Ranadipgithub/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1312,6 +1314,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ranadipgithub/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Ranadipgithub/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Ranadipgithub/leetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -1363,4 +1366,8 @@
 | [0185-department-top-three-salaries](https://github.com/Ranadipgithub/leetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Ranadipgithub/leetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Ranadipgithub/leetCode/tree/master/0197-rising-temperature) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ranadipgithub/leetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

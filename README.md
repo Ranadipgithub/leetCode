@@ -215,6 +215,7 @@
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/Ranadipgithub/leetCode/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/Ranadipgithub/leetCode/tree/master/0940-fruit-into-baskets) |
@@ -321,6 +322,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -587,6 +589,7 @@
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ranadipgithub/leetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ranadipgithub/leetCode/tree/master/0670-maximum-swap) |
+| [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -827,6 +830,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ranadipgithub/leetCode/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -897,6 +901,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
+| [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |

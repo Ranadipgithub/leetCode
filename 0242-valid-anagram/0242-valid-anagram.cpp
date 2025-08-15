@@ -3,8 +3,14 @@ public:
     bool isAnagram(string s, string t) {
         int n = s.size();
         if(n != t.size()) return false;
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
-        return s == t;
+        unordered_map<char, int> fq;
+        for(auto ch: s){
+            fq[ch]++;
+        }
+        for(int i = 0;i<n;i++){
+            fq[t[i]]--;
+            if(fq[t[i]] == 0) fq.erase(t[i]);
+        }
+        return fq.size() == 0;
     }
 };

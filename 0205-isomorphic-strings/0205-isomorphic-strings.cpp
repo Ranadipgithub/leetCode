@@ -1,20 +1,17 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if (s.size() != t.size()) return false;
+        int n = s.size();
+        if (n != t.size()) return false;
 
-        int mapST[256] = {0}; // s -> t
-        int mapTS[256] = {0}; // t -> s
+        map<char, char> mp1; // s -> t
+        map<char, char> mp2; // t -> s
 
-        for (int i = 0; i < s.size(); i++) {
-            unsigned char cs = s[i], ct = t[i];
-            if (mapST[cs] == 0 && mapTS[ct] == 0) {
-                mapST[cs] = ct;
-                mapTS[ct] = cs;
-            } 
-            else if (mapST[cs] != ct || mapTS[ct] != cs) {
-                return false;
-            }
+        for (int i = 0; i < n; i++) {
+            if (mp1.count(s[i]) && mp1[s[i]] != t[i]) return false;
+            if (mp2.count(t[i]) && mp2[t[i]] != s[i]) return false;
+            mp1[s[i]] = t[i];
+            mp2[t[i]] = s[i];
         }
         return true;
     }

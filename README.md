@@ -207,6 +207,7 @@
 | [0127-word-ladder](https://github.com/Ranadipgithub/leetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Ranadipgithub/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ranadipgithub/leetCode/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ranadipgithub/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -273,6 +274,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ranadipgithub/leetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Ranadipgithub/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |

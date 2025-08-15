@@ -304,6 +304,7 @@
 | [1871-palindrome-partitioning-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1871-palindrome-partitioning-iv) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -608,6 +609,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ranadipgithub/leetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -721,6 +723,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ranadipgithub/leetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ranadipgithub/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |

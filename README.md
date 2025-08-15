@@ -267,6 +267,7 @@
 | [0013-roman-to-integer](https://github.com/Ranadipgithub/leetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0072-edit-distance) |
@@ -831,6 +832,7 @@
 | [0015-3sum](https://github.com/Ranadipgithub/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ranadipgithub/leetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranadipgithub/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ranadipgithub/leetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
@@ -1145,6 +1147,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
 ## Hash Function

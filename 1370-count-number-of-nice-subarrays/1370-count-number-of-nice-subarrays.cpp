@@ -31,12 +31,27 @@ private:
         }
         return count;
     }
+
+    int noSubarrayLessThanKOdd(vector<int> &nums, int k){
+        int i = 0, j = 0, oddCnt = 0, cnt = 0;
+        int n = nums.size();
+        while(j<n){
+            if(nums[j]%2 == 1) oddCnt++;
+            while(oddCnt > k && i<=j){
+                if(nums[i] % 2 == 1) oddCnt--;
+                i++;
+            }
+            cnt += j-i+1;
+            j++;
+        }
+        return cnt;
+    }
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        // return numSubarraysLessThanSum(nums, k) - numSubarraysLessThanSum(nums, k - 1);
-        for(int i = 0;i<nums.size();i++){
-            nums[i] = nums[i]%2;
-        }
-        return numSubarraysWithSum(nums, k);
+        return noSubarrayLessThanKOdd(nums, k) - noSubarrayLessThanKOdd(nums, k - 1);
+        // for(int i = 0;i<nums.size();i++){
+        //     nums[i] = nums[i]%2;
+        // }
+        // return numSubarraysWithSum(nums, k);
     }
 };

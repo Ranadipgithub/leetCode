@@ -125,6 +125,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1386-shift-2d-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -501,6 +502,7 @@
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ranadipgithub/leetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ranadipgithub/leetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1308,6 +1310,7 @@
 | [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1386-shift-2d-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |

@@ -1,52 +1,41 @@
 class Solution {
 public:
-    void bfs(int i, unordered_map<int, vector<int>>& adj, vector<bool>& visited, int& v, int &e) {
-        queue<int> que;
-        que.push(i);
-        visited[i] = true;
-
-        while(!que.empty()) {
-            int curr = que.front();
-            que.pop();
-            v++;
-            e += adj[curr].size();
-
-            for(int &ngbr : adj[curr]) {
-                if(!visited[ngbr]) {
-                    visited[ngbr] = true;
-                    que.push(ngbr);
-                }
+    // no of edges = n*(n-1)/2;
+    // degree of each node = n-1;
+    void dfs(int node, vector<int>& visited, unordered_map<int, vector<int>> &adj, int &nodes, int &edges){
+        visited[node] = 1;
+        nodes++;
+        for(auto &ngbr: adj[node]){
+            edges++;
+            if(!visited[ngbr]){
+                dfs(ngbr, visited, adj, nodes, edges);
             }
         }
     }
+
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
         unordered_map<int, vector<int>> adj;
-
-        int result = 0;
-
-        //Build the graph
-        for(auto &edge : edges) {
+        for(auto &edge: edges){
             int u = edge[0];
             int v = edge[1];
-
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
 
-        vector<bool> visited(n, false);
-        for(int i = 0; i < n; i++) {
-            if(visited[i] == true) {
-                continue;
-            }
-            int v = 0;
-            int e = 0;
-            bfs(i, adj, visited, v, e);
+        vector<int> visited(n, 0);
+        int cnt = 0;
 
-            if((v*(v-1)) == e) {
-                result++;
+        for(int i = 0; i < n; i++){
+            if(!visited[i]){
+                int nodes = 0, edges = 0;
+                dfs(i, visited, adj, nodes, edges);
+
+                edges /= 2; // because each undirected edge counted twice
+                if(edges == nodes * (nodes - 1) / 2) {
+                    cnt++;
+                }
             }
         }
-        
-        return result;
+        return cnt;
     }
 };

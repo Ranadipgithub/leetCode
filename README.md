@@ -196,6 +196,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ranadipgithub/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ranadipgithub/leetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1336,6 +1337,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3330-modify-the-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/3330-modify-the-matrix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ranadipgithub/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Topological Sort
 |  |
 | ------- |

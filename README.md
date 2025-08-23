@@ -532,6 +532,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ranadipgithub/leetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ranadipgithub/leetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -622,6 +623,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ranadipgithub/leetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1385,6 +1387,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0930-all-possible-full-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ranadipgithub/leetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |

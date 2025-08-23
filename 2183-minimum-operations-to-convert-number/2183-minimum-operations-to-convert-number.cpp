@@ -1,30 +1,31 @@
 class Solution {
-public: 
+public:
     int minimumOperations(vector<int>& nums, int start, int goal) {
         int n = nums.size();
-        int x = start;
         queue<int> q;
-        q.push(x);
+        q.push(start);
+        unordered_set<int> visited; 
+        visited.insert(start);
+
         int ops = 0;
-        set<int> visited;
-        while(!q.empty()){
+        while (!q.empty()) {
             int size = q.size();
-            while(size--){
+            while (size--) {
                 int el = q.front();
                 q.pop();
 
-                if(el == goal) return ops;
-                if(el < 0 || el > 1000 || visited.count(el)) continue;
-                visited.insert(el);
+                if (el == goal) return ops;
 
-                for(int i = 0;i<n;i++){
-                    int add = el + nums[i];
-                    int sub = el - nums[i];
-                    int xorop = el ^ nums[i];
+                for (int i = 0; i < n; i++) {
+                    int nextVals[3] = {el + nums[i], el - nums[i], el ^ nums[i]};
 
-                    if(add <= 1000) q.push(add);
-                    q.push(sub);
-                    if(xorop >= 0 && xorop <= 1000) q.push(xorop);
+                    for (int nxt : nextVals) {
+                        if (nxt == goal) return ops + 1;
+                        if (nxt >= 0 && nxt <= 1000 && !visited.count(nxt)) {
+                            visited.insert(nxt);
+                            q.push(nxt);
+                        }
+                    }
                 }
             }
             ops++;

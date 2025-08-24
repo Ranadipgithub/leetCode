@@ -130,6 +130,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1428-jump-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ranadipgithub/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -609,6 +610,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ranadipgithub/leetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1133,6 +1135,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1428-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ranadipgithub/leetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |

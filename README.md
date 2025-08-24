@@ -17,6 +17,7 @@
 | [0051-n-queens](https://github.com/Ranadipgithub/leetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ranadipgithub/leetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ranadipgithub/leetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
@@ -455,6 +456,7 @@
 | [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ranadipgithub/leetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
@@ -765,6 +767,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Ranadipgithub/leetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Ranadipgithub/leetCode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Ranadipgithub/leetCode/tree/master/0316-remove-duplicate-letters) |

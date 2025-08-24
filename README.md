@@ -132,6 +132,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1428-jump-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1447-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1447-jump-game-iv) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ranadipgithub/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ranadipgithub/leetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -244,6 +245,7 @@
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ranadipgithub/leetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1447-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -613,6 +615,7 @@
 | [1428-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ranadipgithub/leetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1447-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1447-jump-game-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |

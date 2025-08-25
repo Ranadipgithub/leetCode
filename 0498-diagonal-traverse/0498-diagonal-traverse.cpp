@@ -27,7 +27,7 @@ public:
             }
             prev = 1 - prev;
         }
-
+        
         return res;
     }
 };

@@ -25,7 +25,7 @@ public:
                         newi++;
                         newj++;
                     }
-                }
+                } else break;
             }
         }
         return grid;

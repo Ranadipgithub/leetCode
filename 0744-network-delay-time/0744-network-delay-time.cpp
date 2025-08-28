@@ -1,39 +1,31 @@
 class Solution {
 public:
-    int networkDelayTime(vector<vector<int>>& times, int n, int src) {
-        vector<int> explored(n + 1, 0);
-        vector<int> dist(n + 1, INT_MAX);
-        vector<vector<pair<int, int>>> adj(n + 1);
-
-        for (auto &edge : times) {
-            int u = edge[0], v = edge[1], w = edge[2];
+    int networkDelayTime(vector<vector<int>>& times, int n, int k) {
+        unordered_map<int, vector<pair<int, int>>> adj;
+        for(auto &it: times){
+            int u = it[0], v = it[1], w = it[2];
             adj[u].push_back({v, w});
         }
-
-        dist[src] = 0;
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        pq.push({0, src});
-        
+        pq.push({0, k});
+        vector<int> dist(n+1, INT_MAX);
+        dist[k] = 0;
         while(!pq.empty()){
             int node = pq.top().second;
+            int wt = pq.top().first;
             pq.pop();
-            if(explored[node]) continue;
-            explored[node] = 1;
 
-            for (auto &edge : adj[node]) {
-                int ngbr = edge.first, wt = edge.second;
-                if (!explored[ngbr] && dist[node] + wt < dist[ngbr]) {
-                    dist[ngbr] = dist[node] + wt;
-                    pq.push({dist[ngbr], ngbr});
+            for(auto &ngbr: adj[node]){
+                int v = ngbr.first;
+                int w = ngbr.second;
+
+                if(dist[v] > wt + w){
+                    dist[v] = wt+w;
+                    pq.push({dist[v], v});
                 }
             }
         }
-
-        int maxTime = 0;
-        for(int i = 1; i <= n; i++) {
-            if(dist[i] == INT_MAX) return -1;
-            maxTime = max(maxTime, dist[i]);
-        }
-        return maxTime;
+        int res = *max_element(dist.begin()+1, dist.end());
+        return res == INT_MAX? -1: res;
     }
 };

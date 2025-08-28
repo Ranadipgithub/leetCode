@@ -1,39 +1,44 @@
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<int, int>>> adj(n);
-        for (auto &edge : roads) {
-            int u = edge[0], v = edge[1], w = edge[2];
+        const int MOD = 1e9 + 7;
+        unordered_map<int, vector<pair<int, int>>> adj;
+        
+        for(auto &it: roads){
+            int u = it[0], v = it[1], w = it[2];
             adj[u].push_back({v, w});
-            adj[v].push_back({u, w}); 
+            adj[v].push_back({u, w});
         }
 
-        vector<long long> minTime(n, LLONG_MAX);
-        vector<int> cnt(n, 0);
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
-
-        minTime[0] = 0;
-        cnt[0] = 1;
+        priority_queue<pair<long long,int>, vector<pair<long long,int>>, greater<pair<long long,int>>> pq;
         pq.push({0, 0});
+        
+        vector<long long> dist(n, LLONG_MAX);
+        vector<long long> cnt(n, 0);
+        dist[0] = 0;
+        cnt[0] = 1;
 
-        int mod = 1e9 + 7;
+        while(!pq.empty()){
+            long long cost = pq.top().first;
+            int node = pq.top().second;
+            pq.pop();
 
-        while(!pq.empty()) {
-            auto [currTime, node] = pq.top(); pq.pop();
+            if(cost > dist[node]) continue;
 
-            if (currTime > minTime[node]) continue; 
+            for(auto &ngbr: adj[node]){
+                int v = ngbr.first;
+                int w = ngbr.second;
 
-            for (auto &[ngbr, wt] : adj[node]) {
-                if (minTime[node] + wt < minTime[ngbr]) {
-                    minTime[ngbr] = minTime[node] + wt;
-                    cnt[ngbr] = cnt[node];
-                    pq.push({minTime[ngbr], ngbr});
-                } else if (minTime[node] + wt == minTime[ngbr]) {
-                    cnt[ngbr] = (cnt[ngbr] + cnt[node]) % mod;
+                if(dist[v] > cost + w){
+                    dist[v] = cost + w;
+                    pq.push({dist[v], v});
+                    cnt[v] = cnt[node];
+                } 
+                else if(dist[v] == cost + w){
+                    cnt[v] = (cnt[v] + cnt[node]) % MOD;
                 }
             }
         }
-
-        return cnt[n - 1];
+        return cnt[n-1] % MOD;
     }
 };

@@ -1470,6 +1470,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranadipgithub/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ranadipgithub/leetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Ranadipgithub/leetCode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -1484,6 +1485,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ranadipgithub/leetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/Ranadipgithub/leetCode/tree/master/0224-basic-calculator) |

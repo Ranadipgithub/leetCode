@@ -23,15 +23,17 @@ private:
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1, high = findMax(piles);
+        int ans = -1;
         while (low <= high) {
             int mid = low + (high - low) / 2;
             long long totalH = calTotalHours(piles, mid);
             if (totalH <= h) {
+                ans = mid;
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
-        return low;
+        return ans;
     }
 };

@@ -23,6 +23,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
@@ -233,6 +234,7 @@
 | [0013-roman-to-integer](https://github.com/Ranadipgithub/leetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ranadipgithub/leetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ranadipgithub/leetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1406,6 +1408,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Ranadipgithub/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranadipgithub/leetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0212-word-search-ii) |

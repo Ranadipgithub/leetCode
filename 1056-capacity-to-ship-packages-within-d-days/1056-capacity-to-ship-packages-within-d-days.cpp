@@ -24,7 +24,7 @@ public:
             int mid = low + (high - low)/2;
             if(possible(weights, mid) <= days){
                 high = mid - 1;
-                ans = min(ans, mid);
+                ans = mid;
             }
             else{
                 low = mid + 1;

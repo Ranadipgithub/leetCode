@@ -9,29 +9,34 @@
  * };
  */
 class Solution {
+private:
+    ListNode *reverseLL(ListNode *head){
+        if(head == nullptr || head->next == nullptr) return head;
+        ListNode *last = reverseLL(head->next);
+        head->next->next = head;
+        head->next = nullptr;
+        return last;
+    }
 public:
-    bool isPal(vector<int>&arr){
-        int n = arr.size();
-        int i = 0, j = n-1;
-        while(i<=j){
-            if(arr[i] != arr[j]){
+    bool isPalindrome(ListNode* head) {
+        ListNode *fast = head;
+        ListNode *slow = head;
+        while(fast->next != nullptr && fast->next->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        ListNode* newHead = reverseLL(slow->next);
+        ListNode *first = head;
+        ListNode *second = newHead;
+        while(second != nullptr){
+            if(first->val != second->val){
+                reverseLL(newHead);
                 return false;
             }
-            i++;
-            j--;
+            first = first->next;
+            second = second->next;
         }
+        reverseLL(newHead);
         return true;
-    }
-    bool isPalindrome(ListNode* head) {
-        if(head->next == NULL) return true;
-        vector<int> res;
-        while(head){
-            res.push_back(head->val);
-            head = head->next;
-        }
-        if(isPal(res)){
-            return true;
-        }
-        return false;
     }
 };

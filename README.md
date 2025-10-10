@@ -218,6 +218,7 @@
 | [3330-modify-the-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/3330-modify-the-matrix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ranadipgithub/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ranadipgithub/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -833,6 +834,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ranadipgithub/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |

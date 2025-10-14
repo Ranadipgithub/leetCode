@@ -27,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ranadipgithub/leetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -328,6 +329,7 @@
 | [0049-group-anagrams](https://github.com/Ranadipgithub/leetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Ranadipgithub/leetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ranadipgithub/leetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Ranadipgithub/leetCode/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0126-word-ladder-ii) |
@@ -615,6 +617,7 @@
 | [0051-n-queens](https://github.com/Ranadipgithub/leetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Ranadipgithub/leetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ranadipgithub/leetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0113-path-sum-ii) |
@@ -1196,6 +1199,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ranadipgithub/leetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0101-symmetric-tree) |
@@ -1444,6 +1448,7 @@
 | [0063-unique-paths-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ranadipgithub/leetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ranadipgithub/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranadipgithub/leetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0212-word-search-ii) |

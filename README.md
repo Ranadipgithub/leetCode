@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/Ranadipgithub/leetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ranadipgithub/leetCode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ranadipgithub/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -943,6 +944,7 @@
 | [0020-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ranadipgithub/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ranadipgithub/leetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Ranadipgithub/leetCode/tree/master/0224-basic-calculator) |
@@ -977,6 +979,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ranadipgithub/leetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ranadipgithub/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Ranadipgithub/leetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Ranadipgithub/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0503-next-greater-element-ii) |

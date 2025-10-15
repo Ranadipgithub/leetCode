@@ -42,6 +42,7 @@
 | [0135-candy](https://github.com/Ranadipgithub/leetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Ranadipgithub/leetCode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Ranadipgithub/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ranadipgithub/leetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -255,6 +256,7 @@
 | [0139-word-break](https://github.com/Ranadipgithub/leetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ranadipgithub/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ranadipgithub/leetCode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Ranadipgithub/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ranadipgithub/leetCode/tree/master/0242-valid-anagram) |
@@ -718,6 +720,7 @@
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Ranadipgithub/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Ranadipgithub/leetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Ranadipgithub/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0227-basic-calculator-ii) |
@@ -1670,6 +1673,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ranadipgithub/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Ranadipgithub/leetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Brainteaser

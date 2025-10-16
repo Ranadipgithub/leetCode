@@ -32,21 +32,6 @@ public:
                 maxLen = max(maxLen, len);
             }
         }
-
-
-
-        // for(int i = 0;i<n;i++){
-        //     if(s[i] == '('){
-        //         st.push(s[i]);
-        //     } else{
-        //         if(st.empty()) len = 0;
-        //         else {
-        //             st.pop();
-        //             len += 2;
-        //             maxLen = max(maxLen, len);
-        //         }
-        //     }
-        // }
         return maxLen;
     }
 };

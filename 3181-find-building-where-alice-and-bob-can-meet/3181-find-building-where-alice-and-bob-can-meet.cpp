@@ -1,80 +1,72 @@
+auto fast_io = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 0;
+}();
+
 class Solution {
 public:
-    vector<int> heights;
+    vector<int> segTree;
 
-    void buildSegTree(int i, int l, int r, vector<int>& segTree) {
+    void build(int i, int l, int r, vector<int>& heights) {
         if (l == r) {
             segTree[i] = l;
             return;
         }
         int mid = l + (r - l) / 2;
-        buildSegTree(2 * i + 1, l, mid, segTree);
-        buildSegTree(2 * i + 2, mid + 1, r, segTree);
+        build(2 * i + 1, l, mid, heights);
+        build(2 * i + 2, mid + 1, r, heights);
 
-        int leftIdx = segTree[2 * i + 1];
-        int rightIdx = segTree[2 * i + 2];
-
-        segTree[i] = (heights[leftIdx] >= heights[rightIdx]) ? leftIdx : rightIdx;
+        if (heights[segTree[2 * i + 1]] >= heights[segTree[2 * i + 2]])
+            segTree[i] = segTree[2 * i + 1];
+        else
+            segTree[i] = segTree[2 * i + 2];
     }
 
-    int findRMIQ(int ql, int qr, int i, int l, int r, vector<int>& segTree) {
-        if (r < ql || l > qr)
-            return -1;
-        if (l >= ql && r <= qr)
-            return segTree[i];
-        
+    int query(int ql, int qr, int i, int l, int r, vector<int>& heights) {
+        if (l > qr || r < ql) return -1;
+        if (l >= ql && r <= qr) return segTree[i];
+
         int mid = l + (r - l) / 2;
-        int leftIdx = findRMIQ(ql, qr, 2 * i + 1, l, mid, segTree);
-        int rightIdx = findRMIQ(ql, qr, 2 * i + 2, mid + 1, r, segTree);
+        int leftIdx = query(ql, qr, 2 * i + 1, l, mid, heights);
+        int rightIdx = query(ql, qr, 2 * i + 2, mid + 1, r, heights);
 
         if (leftIdx == -1) return rightIdx;
         if (rightIdx == -1) return leftIdx;
-
         return (heights[leftIdx] >= heights[rightIdx]) ? leftIdx : rightIdx;
     }
 
-    vector<int> leftmostBuildingQueries(vector<int>& heights_, vector<vector<int>>& queries) {
-        heights = heights_;
+    vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
         int n = heights.size();
+        segTree.assign(4 * n, 0);
+        build(0, 0, n - 1, heights);
 
-        vector<int> segTree(4 * n);
-        if (n > 0) {
-            buildSegTree(0, 0, n - 1, segTree);
-        }
-
-        vector<int> ans;
+        vector<int> result;
         for (auto& q : queries) {
-            int l = q[0], r = q[1];
-            if (l > r) swap(l, r);
+            int a = q[0], b = q[1];
+            int low = min(a, b), high = max(a, b);
 
-            if (l == r) {
-                ans.push_back(l);
+            if (a == b) {
+                result.push_back(a);
+                continue;
+            }
+            if (heights[high] > heights[low]) {
+                result.push_back(high);
                 continue;
             }
 
-            if (heights[r] > heights[l]) {
-                ans.push_back(r);
-                continue;
+            int l = high + 1, r = n - 1, ans = -1;
+            while (l <= r) {
+                int mid = l + (r - l) / 2;
+                int idx = query(high + 1, mid, 0, 0, n - 1, heights);
+                if (idx != -1 && heights[idx] > heights[low] && heights[idx] > heights[high]) {
+                    ans = idx;
+                    r = mid - 1;
+                } else l = mid + 1;
             }
-
-            int maxi = max(heights[l], heights[r]);
-            
-            int low = r + 1, high = n - 1;
-            int resIdx = -1;
-
-            while (low <= high) {
-                int mid = low + (high - low) / 2;
-                int idx = findRMIQ(r + 1, mid, 0, 0, n - 1, segTree);
-                
-                if (idx != -1 && heights[idx] > maxi) {
-                    resIdx = mid;
-                    high = mid - 1;
-                } else {
-                    low = mid + 1;
-                }
-            }
-            ans.push_back(resIdx);
+            result.push_back(ans);
         }
-        return ans;
+        return result;
     }
 };

@@ -46,6 +46,7 @@ public:
         for (auto& q : queries) {
             int a = q[0], b = q[1];
             int low = min(a, b), high = max(a, b);
+            int maxi = max(heights[low], heights[high]);
 
             if (a == b) {
                 result.push_back(a);
@@ -60,7 +61,7 @@ public:
             while (l <= r) {
                 int mid = l + (r - l) / 2;
                 int idx = query(high + 1, mid, 0, 0, n - 1, heights);
-                if (idx != -1 && heights[idx] > heights[low] && heights[idx] > heights[high]) {
+                if (idx != -1 && heights[idx] > maxi) {
                     ans = idx;
                     r = mid - 1;
                 } else l = mid + 1;

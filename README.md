@@ -187,6 +187,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ranadipgithub/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
@@ -406,6 +407,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ranadipgithub/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -464,6 +466,7 @@
 | [1642-water-bottles](https://github.com/Ranadipgithub/leetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2228-watering-plants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2228-watering-plants-ii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |

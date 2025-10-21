@@ -1,87 +1,66 @@
-struct TrieNode {
-    TrieNode* children[26];
-    int end_count;
-
-    TrieNode() {
-        end_count = 0;
-        for (int i = 0; i < 26; ++i) {
-            children[i] = nullptr;
-        }
-    }
-};
-
-void insert(TrieNode* root, const string& word) {
-    TrieNode* curr = root;
-    for (char ch : word) {
-        int index = ch - 'a';
-        if (!curr->children[index]) {
-            curr->children[index] = new TrieNode();
-        }
-        curr = curr->children[index];
-    }
-    curr->end_count++;
-}
-
-int dr[] = {-1, 1, 0, 0};
-int dc[] = {0, 0, -1, 1};
-
-void findWordsDfs(int r, int c, TrieNode* node, string& current_path,
-                  vector<string>& results, const vector<vector<char>>& board,
-                  vector<vector<bool>>& visited) {
-    
-    if (r < 0 || r >= board.size() || c < 0 || c >= board[0].size() || visited[r][c]) {
-        return;
-    }
-
-    char ch = board[r][c];
-    TrieNode* next_node = node->children[ch - 'a'];
-
-    if (next_node == nullptr) {
-        return;
-    }
-
-    current_path.push_back(ch);
-    visited[r][c] = true;
-
-    if (next_node->end_count > 0) {
-        results.push_back(current_path);
-        next_node->end_count = 0;
-    }
-
-    for (int i = 0; i < 4; ++i) {
-        findWordsDfs(r + dr[i], c + dc[i], next_node, current_path, results, board, visited);
-    }
-
-    visited[r][c] = false;
-    current_path.pop_back();
-}
-
-vector<string> solve_problem(vector<vector<char>>& board, vector<string>& words) {
-    TrieNode* root = new TrieNode();
-    for (const string& word : words) {
-        insert(root, word);
-    }
-
-    vector<string> results;
-    int rows = board.size();
-    int cols = board[0].size();
-
-    vector<vector<bool>> visited(rows, vector<bool>(cols, false));
-    string current_path = "";
-
-    for (int r = 0; r < rows; ++r) {
-        for (int c = 0; c < cols; ++c) {
-            findWordsDfs(r, c, root, current_path, results, board, visited);
-        }
-    }
-    
-    sort(results.begin(), results.end());
-    return results;
-}
-
 class Solution {
 public:
+    struct TrieNode {
+        bool endOfWord;
+        TrieNode *children[26];
+        string word;
+    };
+
+    TrieNode *getNode(){
+        TrieNode *newNode = new TrieNode();
+        newNode->endOfWord = false;
+        newNode->word = "";
+        for(int i = 0;i<26;i++){
+            newNode->children[i] = NULL;
+        }
+        return newNode;
+    }
+
+    void insert(TrieNode *root, string &word){
+        TrieNode *ptr = root;
+        for(int i = 0;i<word.size();i++){
+            if(ptr->children[word[i]-'a'] == NULL){
+                ptr->children[word[i]-'a'] = getNode();
+            }
+            ptr = ptr->children[word[i] - 'a'];
+        }
+        ptr->endOfWord = true;
+        ptr->word = word;
+    }
+    vector<vector<int>> directions{{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
+    void findWords(int i, int j, vector<vector<char>>& board, vector<string> &res, TrieNode *root){
+        int n = board.size(), m = board[0].size();
+        if(i<0 || i>=n || j<0 || j>=m) return;
+        if(board[i][j] == '$' || root->children[board[i][j] - 'a'] == NULL) return;
+        root = root->children[board[i][j] - 'a'];
+        if(root->endOfWord){
+            res.push_back(root->word);
+            root->endOfWord = false;
+        }
+        char temp = board[i][j];
+        board[i][j] = '$';
+        for(auto &dir: directions){
+            int newi = i + dir[0];
+            int newj = j + dir[1];
+
+            findWords(newi, newj, board, res, root);
+        }
+        board[i][j] = temp;
+    }
     vector<string> findWords(vector<vector<char>>& board, vector<string>& words) {
-        return solve_problem(board, words);
+        int n = board.size(), m = board[0].size();
+        TrieNode *root = getNode();
+        for(string word: words){
+            insert(root, word);
+        }
+        vector<string> res;
+        for(int i = 0;i<n;i++){
+            for(int j = 0;j<m;j++){
+                char ch = board[i][j];
+
+                findWords(i, j, board, res, root);
+            }
+        }
+        return res;
     }
 };

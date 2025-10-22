@@ -252,6 +252,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ranadipgithub/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ranadipgithub/leetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -916,6 +917,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
@@ -1012,6 +1014,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ranadipgithub/leetCode/tree/master/3791-fruits-into-baskets-iii) |

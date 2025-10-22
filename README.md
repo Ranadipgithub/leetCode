@@ -394,6 +394,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Ranadipgithub/leetCode/tree/master/0648-replace-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
@@ -617,6 +618,7 @@
 | [0647-palindromic-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ranadipgithub/leetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0747-min-cost-climbing-stairs) |

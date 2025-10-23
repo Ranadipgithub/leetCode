@@ -1,22 +1,24 @@
 class Solution {
 public:
-    vector<int> dp;
+    vector<vector<int>> dp;
+    int solve(int n, int m){
+        if (n == 0) return 0;           
+        if (n < 0 || m == 0) return 1e9;
 
-    int solve(int n) {
-        if (n == 0) return 0;
-        if (dp[n] != -1) return dp[n];
+        if(dp[n][m] != -1) return dp[n][m];
 
-        int mini = INT_MAX;
+        int take = 1e9;
+        if (m * m <= n)  
+            take = 1 + solve(n - m * m, m);
 
-        for (int i = 1; i * i <= n; ++i) {
-            mini = min(mini, solve(n - i * i) + 1);
-        }
+        int not_take = solve(n, m - 1);
 
-        return dp[n] = mini;
+        return dp[n][m] = min(take, not_take);
     }
 
     int numSquares(int n) {
-        dp.resize(n + 1, -1);
-        return solve(n);
+        int m = sqrt(n);
+        dp.resize(n+1, vector<int>(m+1, -1));
+        return solve(n, m);
     }
 };

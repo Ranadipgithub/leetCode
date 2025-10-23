@@ -457,6 +457,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ranadipgithub/leetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ranadipgithub/leetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ranadipgithub/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -502,6 +503,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranadipgithub/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
@@ -823,6 +825,7 @@
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ranadipgithub/leetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ranadipgithub/leetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Ranadipgithub/leetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -1669,6 +1672,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ranadipgithub/leetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1755,6 +1759,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Ranadipgithub/leetCode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
 | ------- |

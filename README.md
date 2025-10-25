@@ -809,6 +809,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Ranadipgithub/leetCode/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Ranadipgithub/leetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ranadipgithub/leetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ranadipgithub/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |

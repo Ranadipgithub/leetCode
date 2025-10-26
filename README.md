@@ -288,6 +288,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ranadipgithub/leetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0264-ugly-number-ii) |
 | [0391-perfect-rectangle](https://github.com/Ranadipgithub/leetCode/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ranadipgithub/leetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -539,6 +540,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Ranadipgithub/leetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ranadipgithub/leetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Ranadipgithub/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
@@ -609,6 +611,7 @@
 | [0198-house-robber](https://github.com/Ranadipgithub/leetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Ranadipgithub/leetCode/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ranadipgithub/leetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ranadipgithub/leetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -794,6 +797,7 @@
 | [0224-basic-calculator](https://github.com/Ranadipgithub/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ranadipgithub/leetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ranadipgithub/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |

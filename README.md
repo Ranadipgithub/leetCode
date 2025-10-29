@@ -437,6 +437,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ranadipgithub/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ranadipgithub/leetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ranadipgithub/leetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1871-palindrome-partitioning-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1871-palindrome-partitioning-iv) |
@@ -833,6 +834,7 @@
 | [1448-maximum-69-number](https://github.com/Ranadipgithub/leetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ranadipgithub/leetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Ranadipgithub/leetCode/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ranadipgithub/leetCode/tree/master/1817-calculate-money-in-leetcode-bank) |

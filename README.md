@@ -257,6 +257,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ranadipgithub/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ranadipgithub/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ranadipgithub/leetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -358,6 +359,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ranadipgithub/leetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ranadipgithub/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1774,6 +1776,7 @@
 | [0206-reverse-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |

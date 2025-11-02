@@ -216,6 +216,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ranadipgithub/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranadipgithub/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -527,6 +528,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1664,6 +1666,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ranadipgithub/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |

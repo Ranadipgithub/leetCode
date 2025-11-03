@@ -73,6 +73,7 @@
 | [0322-coin-change](https://github.com/Ranadipgithub/leetCode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0391-perfect-rectangle](https://github.com/Ranadipgithub/leetCode/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/Ranadipgithub/leetCode/tree/master/0403-frog-jump) |
@@ -991,6 +992,7 @@
 | [0135-candy](https://github.com/Ranadipgithub/leetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ranadipgithub/leetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Ranadipgithub/leetCode/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ranadipgithub/leetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Ranadipgithub/leetCode/tree/master/0611-valid-triangle-number) |

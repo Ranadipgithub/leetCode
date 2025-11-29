@@ -231,6 +231,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -476,6 +477,7 @@
 | [2465-shifting-letters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ranadipgithub/leetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -990,6 +992,7 @@
 | [2465-shifting-letters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |

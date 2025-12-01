@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     bool isPossible(const vector<int>& nums, long long hours, int n){

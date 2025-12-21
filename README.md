@@ -127,6 +127,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranadipgithub/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Ranadipgithub/leetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0948-sort-an-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
@@ -451,6 +452,7 @@
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranadipgithub/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Ranadipgithub/leetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ranadipgithub/leetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1057,6 +1059,7 @@
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ranadipgithub/leetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranadipgithub/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |

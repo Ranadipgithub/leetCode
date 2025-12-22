@@ -11,6 +11,7 @@ public:
                 for(int k = 0;k<n;k++){
                     if(strs[k][i] < strs[k][j]){
                         fg = false;
+                        break;
                     }
                 }
                 if(fg) dp[i] = max(dp[i], 1+dp[j]);

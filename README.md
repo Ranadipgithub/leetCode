@@ -129,6 +129,7 @@
 | [0948-sort-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -454,6 +455,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranadipgithub/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ranadipgithub/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Ranadipgithub/leetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ranadipgithub/leetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -709,6 +711,7 @@
 | [0930-all-possible-full-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ranadipgithub/leetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranadipgithub/leetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1121-partition-array-for-maximum-sum) |

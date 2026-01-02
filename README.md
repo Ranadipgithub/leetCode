@@ -130,6 +130,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranadipgithub/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -343,6 +344,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/Ranadipgithub/leetCode/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/Ranadipgithub/leetCode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranadipgithub/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ranadipgithub/leetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/1016-subarray-sums-divisible-by-k) |

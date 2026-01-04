@@ -63,6 +63,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ranadipgithub/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ranadipgithub/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ranadipgithub/leetCode/tree/master/0303-range-sum-query-immutable) |
@@ -1245,6 +1246,7 @@
 | [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ranadipgithub/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ranadipgithub/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/0345-reverse-vowels-of-a-string) |

@@ -899,6 +899,7 @@
 | [0391-perfect-rectangle](https://github.com/Ranadipgithub/leetCode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/Ranadipgithub/leetCode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
+| [0633-sum-of-square-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Ranadipgithub/leetCode/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ranadipgithub/leetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ranadipgithub/leetCode/tree/master/0670-maximum-swap) |
@@ -1138,6 +1139,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Ranadipgithub/leetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ranadipgithub/leetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1265,6 +1267,7 @@
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Ranadipgithub/leetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |

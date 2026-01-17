@@ -254,6 +254,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranadipgithub/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -939,6 +940,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1992,6 +1994,7 @@
 | [0149-max-points-on-a-line](https://github.com/Ranadipgithub/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0391-perfect-rectangle](https://github.com/Ranadipgithub/leetCode/tree/master/0391-perfect-rectangle) |
 | [0830-largest-triangle-area](https://github.com/Ranadipgithub/leetCode/tree/master/0830-largest-triangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ranadipgithub/leetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Brainteaser

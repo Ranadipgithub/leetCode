@@ -200,6 +200,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1876-map-of-highest-peak](https://github.com/Ranadipgithub/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ranadipgithub/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/Ranadipgithub/leetCode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ranadipgithub/leetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1052,6 +1053,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Ranadipgithub/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1895-largest-magic-square](https://github.com/Ranadipgithub/leetCode/tree/master/1895-largest-magic-square) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2465-shifting-letters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -1798,6 +1800,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ranadipgithub/leetCode/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/Ranadipgithub/leetCode/tree/master/1895-largest-magic-square) |
 | [1972-rotating-the-box](https://github.com/Ranadipgithub/leetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |

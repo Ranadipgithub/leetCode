@@ -207,6 +207,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/Ranadipgithub/leetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ranadipgithub/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/Ranadipgithub/leetCode/tree/master/2035-count-sub-islands) |
@@ -1022,6 +1023,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ranadipgithub/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranadipgithub/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ranadipgithub/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1423,6 +1425,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ranadipgithub/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ranadipgithub/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranadipgithub/leetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ranadipgithub/leetCode/tree/master/2141-maximum-running-time-of-n-computers) |

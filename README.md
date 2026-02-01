@@ -258,6 +258,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranadipgithub/leetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranadipgithub/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1326,6 +1327,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ranadipgithub/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranadipgithub/leetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ranadipgithub/leetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1440,6 +1442,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranadipgithub/leetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranadipgithub/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |

@@ -506,6 +506,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ranadipgithub/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ranadipgithub/leetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ranadipgithub/leetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranadipgithub/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ranadipgithub/leetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -764,6 +765,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ranadipgithub/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ranadipgithub/leetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranadipgithub/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -1239,6 +1241,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ranadipgithub/leetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ranadipgithub/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ranadipgithub/leetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/Ranadipgithub/leetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2227-sum-of-subarray-ranges) |

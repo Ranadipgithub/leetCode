@@ -20,7 +20,6 @@ public:
                 else break;
             }
             i = j-1;
-            cout << cnt << " ";
             ans += cnt * (cnt-1)/2;
         }
         return ans;

@@ -1,26 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    int solve(vector<int>& coins, int amt, int idx) {
-        if (amt == 0) return 0;
-        if (idx >= coins.size()) return INT_MAX - 1;
-
-        if(dp[idx][amt] != -1) return dp[idx][amt]; 
-
-        int take = INT_MAX;
-        if (amt - coins[idx] >= 0) {
-            int res = solve(coins, amt - coins[idx], idx);
-            if (res != INT_MAX - 1) take = 1 + res;
+    int dp[10001][15];
+    int solve(vector<int>&coins, int amount, int idx){
+        if(amount == 0) return 0;
+        if(idx >= coins.size()) return 1e9;
+        if(dp[amount][idx] != -1) return dp[amount][idx];
+        int take = 1e9;
+        if(amount >= coins[idx]){
+            take = 1 + solve(coins, amount-coins[idx], idx);
         }
-
-        int not_take = solve(coins, amt, idx + 1);
-
-        return dp[idx][amt] = min(take, not_take);
+        int skip = solve(coins, amount, idx + 1);
+        return dp[amount][idx] = min(take, skip);
     }
-
     int coinChange(vector<int>& coins, int amount) {
-        dp.resize(coins.size(), vector<int>(amount + 1, -1));
-        int res = solve(coins, amount, 0);
-        return (res == INT_MAX - 1) ? -1 : res;
+        int n = coins.size();
+        memset(dp, -1, sizeof(dp));
+        int ans = solve(coins, amount, 0);
+        return ans == 1e9? -1: ans;
     }
 };

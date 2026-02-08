@@ -139,6 +139,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranadipgithub/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ranadipgithub/leetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranadipgithub/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -749,6 +750,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ranadipgithub/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ranadipgithub/leetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranadipgithub/leetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |

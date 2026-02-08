@@ -147,6 +147,7 @@
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Ranadipgithub/leetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Ranadipgithub/leetCode/tree/master/1036-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ranadipgithub/leetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -762,6 +763,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ranadipgithub/leetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranadipgithub/leetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1121-partition-array-for-maximum-sum) |

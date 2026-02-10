@@ -773,6 +773,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ranadipgithub/leetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |

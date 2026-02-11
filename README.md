@@ -807,6 +807,7 @@
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ranadipgithub/leetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -982,6 +983,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2998-count-symmetric-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2998-count-symmetric-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1941,6 +1943,7 @@
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |

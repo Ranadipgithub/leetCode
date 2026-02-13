@@ -261,6 +261,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -809,6 +810,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -1887,6 +1889,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |

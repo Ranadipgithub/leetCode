@@ -129,6 +129,7 @@
 | [0898-transpose-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0931-minimum-falling-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ranadipgithub/leetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
@@ -772,6 +773,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0931-minimum-falling-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ranadipgithub/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1863,6 +1865,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ranadipgithub/leetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Ranadipgithub/leetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0898-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/Ranadipgithub/leetCode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Ranadipgithub/leetCode/tree/master/1036-rotting-oranges) |

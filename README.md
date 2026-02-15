@@ -467,6 +467,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ranadipgithub/leetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ranadipgithub/leetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ranadipgithub/leetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ranadipgithub/leetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ranadipgithub/leetCode/tree/master/0079-word-search) |
@@ -609,6 +610,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Ranadipgithub/leetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ranadipgithub/leetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Ranadipgithub/leetCode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0898-transpose-matrix) |
@@ -955,6 +957,7 @@
 | [0012-integer-to-roman](https://github.com/Ranadipgithub/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranadipgithub/leetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Ranadipgithub/leetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Ranadipgithub/leetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Ranadipgithub/leetCode/tree/master/0149-max-points-on-a-line) |
@@ -1031,6 +1034,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ranadipgithub/leetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0137-single-number-ii) |

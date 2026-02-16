@@ -1038,6 +1038,7 @@
 | [0078-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Ranadipgithub/leetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ranadipgithub/leetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0260-single-number-iii) |
@@ -1412,6 +1413,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ranadipgithub/leetCode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Ranadipgithub/leetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Ranadipgithub/leetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ranadipgithub/leetCode/tree/master/0315-count-of-smaller-numbers-after-self) |

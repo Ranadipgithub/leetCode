@@ -865,6 +865,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ranadipgithub/leetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Ranadipgithub/leetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1044,6 +1045,7 @@
 | [0260-single-number-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ranadipgithub/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Ranadipgithub/leetCode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |

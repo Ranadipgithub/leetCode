@@ -1048,6 +1048,7 @@
 | [0401-binary-watch](https://github.com/Ranadipgithub/leetCode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ranadipgithub/leetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |

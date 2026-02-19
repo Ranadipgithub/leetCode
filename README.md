@@ -502,6 +502,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Ranadipgithub/leetCode/tree/master/0648-replace-words) |
+| [0696-count-binary-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
@@ -1366,6 +1367,7 @@
 | [0647-palindromic-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |

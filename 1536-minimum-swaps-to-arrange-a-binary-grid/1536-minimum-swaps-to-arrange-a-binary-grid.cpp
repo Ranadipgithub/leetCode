@@ -12,7 +12,6 @@ public:
                 }
             }
             zeros.push_back(n-lastIdx-1);
-            cout << zeros[i] << " ";
         }
         
         int swaps = 0;
@@ -29,7 +28,7 @@ public:
                 j--;
             }
         }
-        
+
         return swaps;
     }
 };

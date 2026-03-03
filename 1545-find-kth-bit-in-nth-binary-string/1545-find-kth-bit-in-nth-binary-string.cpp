@@ -1,5 +1,6 @@
 class Solution {
 public:
+    vector<string> dp;
     string invert(string s){
         string res = "";
         for(char ch: s){
@@ -11,8 +12,9 @@ public:
     }
     string solve(int n){
         if(n == 1) return "0";
+        if(dp[n] != "1") return dp[n];
         string temp = solve(n-1);
-        return temp + '1' + invert(temp);
+        return dp[n] = temp + '1' + invert(temp);
     }
     char findKthBit(int n, int k) {
         // 0
@@ -20,6 +22,7 @@ public:
         // 0111001
         // 011100110110001
 
+        dp.resize(n+1, "1");
         string res = solve(n);
         return res[k-1];
     }

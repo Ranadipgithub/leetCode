@@ -531,6 +531,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ranadipgithub/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -621,6 +622,7 @@
 | [0898-transpose-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0898-transpose-matrix) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1386-shift-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1386-shift-2d-grid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Ranadipgithub/leetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1706-where-will-the-ball-fall](https://github.com/Ranadipgithub/leetCode/tree/master/1706-where-will-the-ball-fall) |
@@ -2068,6 +2070,7 @@
 | [0486-predict-the-winner](https://github.com/Ranadipgithub/leetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ranadipgithub/leetCode/tree/master/0509-fibonacci-number) |
 | [0930-all-possible-full-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranadipgithub/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Radix Sort

@@ -851,6 +851,7 @@
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ranadipgithub/leetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ranadipgithub/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -1166,6 +1167,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ranadipgithub/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ranadipgithub/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3432-count-partitions-with-even-sum-difference) |

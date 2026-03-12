@@ -211,6 +211,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Ranadipgithub/leetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -839,6 +840,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranadipgithub/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1871-palindrome-partitioning-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1871-palindrome-partitioning-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ranadipgithub/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |

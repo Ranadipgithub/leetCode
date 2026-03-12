@@ -1252,6 +1252,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ranadipgithub/leetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranadipgithub/leetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1306,6 +1307,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Ranadipgithub/leetCode/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -2117,6 +2119,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -2179,5 +2182,10 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ranadipgithub/leetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->

@@ -32,13 +32,13 @@ public:
         while (!q.empty() && !found) {
             int size = q.size();
             currentLevel.clear();
-            for (int i = 0; i < size; ++i) {
+            while(size--) {
                 string word = q.front(); q.pop();
                 string original = word;
 
-                for (int j = 0; j < word.size(); ++j) {
+                for (int j = 0; j < word.size(); j++) {
                     char ch = word[j];
-                    for (char c = 'a'; c <= 'z'; ++c) {
+                    for (char c = 'a'; c <= 'z'; c++) {
                         word[j] = c;
                         if (!dict.count(word) || visited.count(word)) continue;
 

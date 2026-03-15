@@ -685,6 +685,7 @@
 | [0931-maximum-frequency-stack](https://github.com/Ranadipgithub/leetCode/tree/master/0931-maximum-frequency-stack) |
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ranadipgithub/leetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/Ranadipgithub/leetCode/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/Ranadipgithub/leetCode/tree/master/2434-design-a-number-container-system) |
@@ -1036,6 +1037,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ranadipgithub/leetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1622-fancy-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ranadipgithub/leetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Ranadipgithub/leetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1519,6 +1521,7 @@
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
+| [1622-fancy-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |

@@ -213,6 +213,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Ranadipgithub/leetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1256,6 +1257,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranadipgithub/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ranadipgithub/leetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1586,6 +1588,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ranadipgithub/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ranadipgithub/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ranadipgithub/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1992,6 +1995,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Ranadipgithub/leetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/Ranadipgithub/leetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ranadipgithub/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |

@@ -299,6 +299,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ranadipgithub/leetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranadipgithub/leetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ranadipgithub/leetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -1208,6 +1209,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranadipgithub/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ranadipgithub/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranadipgithub/leetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ranadipgithub/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -2019,6 +2021,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranadipgithub/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranadipgithub/leetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3330-modify-the-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/3330-modify-the-matrix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |

@@ -323,6 +323,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Ranadipgithub/leetCode/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranadipgithub/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ranadipgithub/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ranadipgithub/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1619,6 +1620,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3531-count-covered-buildings](https://github.com/Ranadipgithub/leetCode/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranadipgithub/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Ranadipgithub/leetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -2026,6 +2028,7 @@
 | [3330-modify-the-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/3330-modify-the-matrix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ranadipgithub/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranadipgithub/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ranadipgithub/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ranadipgithub/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Topological Sort

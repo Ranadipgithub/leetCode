@@ -255,6 +255,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2228-watering-plants-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ranadipgithub/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2258-escape-the-spreading-fire](https://github.com/Ranadipgithub/leetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -997,6 +998,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2183-minimum-operations-to-convert-number) |
+| [2258-escape-the-spreading-fire](https://github.com/Ranadipgithub/leetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1346,6 +1348,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/Ranadipgithub/leetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ranadipgithub/leetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ranadipgithub/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2258-escape-the-spreading-fire](https://github.com/Ranadipgithub/leetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranadipgithub/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -2026,6 +2029,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/Ranadipgithub/leetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ranadipgithub/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2258-escape-the-spreading-fire](https://github.com/Ranadipgithub/leetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |

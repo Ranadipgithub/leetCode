@@ -285,6 +285,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2906-construct-product-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranadipgithub/leetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ranadipgithub/leetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -1215,6 +1216,7 @@
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Ranadipgithub/leetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2906-construct-product-matrix) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranadipgithub/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ranadipgithub/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -2035,6 +2037,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranadipgithub/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3148-maximum-difference-score-in-a-grid) |

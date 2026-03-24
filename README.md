@@ -120,6 +120,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Ranadipgithub/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ranadipgithub/leetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0830-largest-triangle-area](https://github.com/Ranadipgithub/leetCode/tree/master/0830-largest-triangle-area) |
@@ -823,6 +824,7 @@
 | [0741-cherry-pickup](https://github.com/Ranadipgithub/leetCode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0799-champagne-tower](https://github.com/Ranadipgithub/leetCode/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -920,6 +922,7 @@
 | [0401-binary-watch](https://github.com/Ranadipgithub/leetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
+| [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ranadipgithub/leetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ranadipgithub/leetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1980-find-unique-binary-string) |
@@ -959,6 +962,7 @@
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Ranadipgithub/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ranadipgithub/leetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1991,6 +1995,7 @@
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Ranadipgithub/leetCode/tree/master/0741-cherry-pickup) |
+| [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Ranadipgithub/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ranadipgithub/leetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Ranadipgithub/leetCode/tree/master/0854-making-a-large-island) |
@@ -2098,6 +2103,7 @@
 | [0139-word-break](https://github.com/Ranadipgithub/leetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/Ranadipgithub/leetCode/tree/master/0509-fibonacci-number) |
+| [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ranadipgithub/leetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |

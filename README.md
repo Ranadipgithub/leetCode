@@ -330,6 +330,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Ranadipgithub/leetCode/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ranadipgithub/leetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranadipgithub/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ranadipgithub/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1233,6 +1234,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ranadipgithub/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ranadipgithub/leetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1509,6 +1511,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranadipgithub/leetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ranadipgithub/leetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ranadipgithub/leetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -2056,6 +2059,7 @@
 | [3330-modify-the-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/3330-modify-the-matrix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ranadipgithub/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ranadipgithub/leetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranadipgithub/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranadipgithub/leetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ranadipgithub/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |

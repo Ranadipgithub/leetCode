@@ -6,15 +6,13 @@ public:
     for (int i = 0; i < m; ++i) {
       int shift = k % n;
       for (int j = 0; j < n; ++j) {
-        int orig_j;
+        int orj;
         if (i % 2 == 0) {
-          // even-indexed row: left shift
-          orig_j = (j + shift) % n;
+          orj = (j + shift) % n;
         } else {
-          // odd-indexed row: right shift
-          orig_j = (j - shift + n) % n;
+          orj = (j - shift + n) % n;
         }
-        if (mat[i][j] != mat[i][orig_j]) {
+        if (mat[i][j] != mat[i][orj]) {
           return false;
         }
       }

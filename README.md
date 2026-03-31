@@ -1024,6 +1024,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ranadipgithub/leetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -2297,6 +2298,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Ranadipgithub/leetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ranadipgithub/leetCode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |

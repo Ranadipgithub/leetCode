@@ -993,6 +993,7 @@
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ranadipgithub/leetCode/tree/master/1036-rotting-oranges) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1073-number-of-enclaves](https://github.com/Ranadipgithub/leetCode/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -1794,6 +1795,7 @@
 | [0975-range-sum-of-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ranadipgithub/leetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1073-number-of-enclaves](https://github.com/Ranadipgithub/leetCode/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -2300,6 +2302,7 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Ranadipgithub/leetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ranadipgithub/leetCode/tree/master/0841-keys-and-rooms) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2608-shortest-cycle-in-a-graph) |

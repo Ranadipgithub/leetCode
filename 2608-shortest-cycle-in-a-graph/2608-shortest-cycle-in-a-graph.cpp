@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findShortestCycle(int n, vector<vector<int>>& edges) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         unordered_map<int, vector<int>> adj;
         vector<int> degree(n, 0);
         for(auto &edge: edges){
@@ -48,7 +50,7 @@ public:
                 if (dist[u] >= minLen / 2) {
                     break; 
                 }
-                
+
                 for(int &v: adj[u]){
                     if(pruned[v]) continue;
                     if(dist[v] == -1){ 

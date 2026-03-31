@@ -45,8 +45,12 @@ public:
                 auto it = q.front();
                 q.pop();
                 int u = it.first, parent = it.second;
-
+                if (dist[u] >= minLen / 2) {
+                    break; 
+                }
+                
                 for(int &v: adj[u]){
+                    if(pruned[v]) continue;
                     if(dist[v] == -1){ 
                         dist[v] = dist[u] + 1;
                         q.push({v, u});

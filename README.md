@@ -199,6 +199,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ranadipgithub/leetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranadipgithub/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ranadipgithub/leetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -1005,6 +1006,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ranadipgithub/leetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1447-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1447-jump-game-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ranadipgithub/leetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1805,6 +1807,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ranadipgithub/leetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ranadipgithub/leetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -2041,6 +2044,7 @@
 | [1463-cherry-pickup-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1463-cherry-pickup-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2300,6 +2304,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranadipgithub/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |

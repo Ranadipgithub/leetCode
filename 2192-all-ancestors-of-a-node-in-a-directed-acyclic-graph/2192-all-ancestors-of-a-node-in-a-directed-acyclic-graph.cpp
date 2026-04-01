@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
-        unordered_map<int, vector<int>> adj;
+        vector<vector<int>> adj(n);
         vector<int> indegree(n, 0);
         for(auto &edge: edges){
             int u = edge[0], v = edge[1];

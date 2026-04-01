@@ -5,6 +5,8 @@ public:
         // better approach is to figure out which nodes can be our potential root node
         // the nodes which are at the middle have the high chance to be the root of the MHT
         // there can be either 2 middle nodes or 1 middle node
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         if(n == 1) return {0};
         vector<vector<int>> adj(n);
         vector<int> degree(n, 0);

@@ -1,11 +1,10 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>> &adj, vector<int>&res, vector<int>&visited){
-        visited[node] = 1;
-        for(int &v: adj[node]){
-            if(!visited[v]){
-                res.push_back(v);
-                dfs(v, adj, res, visited);
+    void dfs(int curr, int anc, vector<vector<int>> &adj, vector<vector<int>>&res){
+        for(int &ngbr: adj[curr]){
+            if(res[ngbr].empty() || res[ngbr].back() != anc){
+                res[ngbr].push_back(anc);
+                dfs(ngbr, anc, adj, res);
             }
         }
     }
@@ -16,14 +15,13 @@ public:
             int u = edge[0];
             int v = edge[1];
 
-            adj[v].push_back(u);
+            adj[u].push_back(v);
         }
 
         vector<vector<int>> res(n);
+
         for(int i = 0;i<n;i++){
-            vector<int> visited(n, 0);
-            dfs(i, adj, res[i], visited);
-            sort(res[i].begin(), res[i].end());
+            dfs(i, i, adj, res);
         }
         return res;
     }

@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
         unordered_map<string, vector<string>> adj;
         unordered_map<string, int> indegree;
         for(int i = 0;i<recipes.size();i++){

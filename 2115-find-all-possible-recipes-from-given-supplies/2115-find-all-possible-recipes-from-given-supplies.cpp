@@ -1,31 +1,36 @@
 class Solution {
 public:
     vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
-        unordered_set<string> st(supplies.begin(), supplies.end());
-        int n = recipes.size();
+        unordered_map<string, vector<string>> adj;
+        unordered_map<string, int> indegree;
+        for(int i = 0;i<recipes.size();i++){
+            for(int j = 0;j<ingredients[i].size();j++){
+                adj[ingredients[i][j]].push_back(recipes[i]);
+                indegree[recipes[i]]++;
+            }
+        }
+        // yeast => bread
+        // flour => bread;
+        // bread => sw
+        // meat => sw
+        queue <string > q;
+        for(int i = 0;i<supplies.size();i++){
+            q.push(supplies[i]);
+        }
+
         vector<string> res;
-        vector<bool> made(n, false);
-        while(true){
-            bool added = false;
-            for(int i = 0;i<n;i++){
-                if(made[i]) continue;
-                bool fg = true;
-                for(int j = 0;j<ingredients[i].size();j++){
-                    if(!st.count(ingredients[i][j])){
-                        fg = false;
-                        break;
-                    }
-                }
-                if(fg){
-                    st.insert(recipes[i]);
-                    res.push_back(recipes[i]);
-                    made[i] = true;
-                    added = true;
+        while(!q.empty()){
+            string u = q.front();
+            q.pop();
+
+            for(string &v: adj[u]){
+                indegree[v]--;
+                if(indegree[v] == 0){
+                    q.push(v);
+                    res.push_back(v);
                 }
             }
-            if(!added) break;
         }
-        
         return res;
     }
 };

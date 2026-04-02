@@ -1,39 +1,30 @@
 class Solution {
 public:
+    void dfs(int node, vector<vector<int>> &adj, vector<int>&res, vector<int>&visited){
+        visited[node] = 1;
+        for(int &v: adj[node]){
+            if(!visited[v]){
+                res.push_back(v);
+                dfs(v, adj, res, visited);
+            }
+        }
+    }
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
         vector<vector<int>> adj(n);
-        vector<int> indegree(n, 0);
+
         for(auto &edge: edges){
-            int u = edge[0], v = edge[1];
-            adj[u].push_back(v);
-            indegree[v]++;
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[v].push_back(u);
         }
 
-        queue<int> q;
-        vector<set<int>> res(n);
+        vector<vector<int>> res(n);
         for(int i = 0;i<n;i++){
-            if(indegree[i] == 0){
-                q.push(i);
-            }
+            vector<int> visited(n, 0);
+            dfs(i, adj, res[i], visited);
+            sort(res[i].begin(), res[i].end());
         }
-
-        while(!q.empty()){
-            int u = q.front();
-            q.pop();
-
-            for(int &v: adj[u]){
-                indegree[v]--;
-                res[v].insert(u);
-                res[v].insert(res[u].begin(), res[u].end());
-                if(indegree[v] == 0) q.push(v);
-            }
-        }
-
-        vector<vector<int>> ans(n);
-        for(int i = 0; i < n; i++){
-            ans[i] = vector<int>(res[i].begin(), res[i].end());
-        }
-
-        return ans;
+        return res;
     }
 };

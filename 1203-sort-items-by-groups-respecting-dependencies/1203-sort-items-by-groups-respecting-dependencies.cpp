@@ -1,61 +1,71 @@
 class Solution {
 public:
-    vector<int> topoSort(int count, vector<int>& indegree, unordered_map<int, vector<int>>& adj) {
-        vector<int> order;
-        queue<int> q;
-        for (int i = 0; i < count; i++) {
-            if (indegree[i] == 0) q.push(i);
+    vector<int> sortItems(int n, int m, vector<int>& group, vector<vector<int>>& beforeItems) {
+        unordered_map<int, int> grps;
+        int k = m;
+        for(int i = 0; i < n; i++){
+            if(group[i] == -1) grps[i] = k++;
+            else grps[i] = group[i];
         }
 
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-            order.push_back(u);
-            for (int v : adj[u]) {
-                indegree[v]--;
-                if (indegree[v] == 0) q.push(v);
+        unordered_map<int, vector<int>> adj;
+        vector<int> indegree(n, 0);
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < beforeItems[i].size(); j++){
+                adj[beforeItems[i][j]].push_back(i);
+                indegree[i]++;
             }
         }
-        return order;
-    }
 
-    vector<int> sortItems(int n, int m, vector<int>& group, vector<vector<int>>& beforeItems) {
-        int groupCount = m;
-        for (int i = 0; i < n; i++) {
-            if (group[i] == -1) group[i] = groupCount++;
+        queue<int> q;
+        for(int i = 0; i < n; i++) if(indegree[i] == 0) q.push(i);
+
+        vector<int> itemOrder;
+        while(!q.empty()){
+            int u = q.front(); q.pop();
+            itemOrder.push_back(u);
+            for(int v : adj[u]){
+                if(--indegree[v] == 0) q.push(v);
+            }
         }
 
-        unordered_map<int, vector<int>> itemAdj, grpAdj;
-        vector<int> itemIndegree(n, 0), grpIndegree(groupCount, 0);
-
-        for (int i = 0; i < n; i++) {
-            for (int prev : beforeItems[i]) {
-                itemAdj[prev].push_back(i);
-                itemIndegree[i]++;
-                
-                if (group[i] != group[prev]) {
-                    grpAdj[group[prev]].push_back(group[i]);
-                    grpIndegree[group[i]]++;
+        unordered_map<int, vector<int>> grp_adj;
+        vector<int> grp_indegree(k, 0);
+        for(int i = 0; i < n; i++){
+            int u = grps[i];
+            for(int j = 0; j < beforeItems[i].size(); j++){
+                int v = grps[beforeItems[i][j]];
+                if(u != v){ 
+                    grp_adj[v].push_back(u);
+                    grp_indegree[u]++;
                 }
             }
         }
 
-        vector<int> itemOrder = topoSort(n, itemIndegree, itemAdj);
-        vector<int> grpOrder = topoSort(groupCount, grpIndegree, grpAdj);
+        queue<int> gq; 
+        for(int i = 0; i < k; i++) if(grp_indegree[i] == 0) gq.push(i);
 
-        if (itemOrder.size() != n || grpOrder.size() != groupCount) return {};
-        unordered_map<int, vector<int>> itemsInGroup;
-        for (int item : itemOrder) {
-            itemsInGroup[group[item]].push_back(item);
+        vector<int> grpOrder;
+        while(!gq.empty()){
+            int u = gq.front(); gq.pop();
+            grpOrder.push_back(u);
+            for(int v : grp_adj[u]){
+                if(--grp_indegree[v] == 0) gq.push(v);
+            }
+        }
+        
+        unordered_map<int, vector<int>> res;
+        for(int item : itemOrder){
+            res[grps[item]].push_back(item);
         }
 
         vector<int> ans;
-        for (int gId : grpOrder) {
-            for (int item : itemsInGroup[gId]) {
+        for(int gId : grpOrder){
+            for(int item : res[gId]){
                 ans.push_back(item);
             }
         }
 
-        return ans;
+        return (ans.size() == n) ? ans : vector<int>{};
     }
 };

@@ -2,7 +2,7 @@ class Solution {
 public:
     int largestPathValue(string colors, vector<vector<int>>& edges) {
         int n = colors.size();
-        unordered_map<int, vector<int>> adj;
+        vector<vector<int>> adj(n);
         vector<int> indegree(n, 0);
         for(auto &edge: edges){
             int u = edge[0];

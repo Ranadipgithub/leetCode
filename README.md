@@ -880,6 +880,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ranadipgithub/leetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1463-cherry-pickup-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Ranadipgithub/leetCode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranadipgithub/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1164,6 +1165,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranadipgithub/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -1700,6 +1702,7 @@
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 ## Tree
 |  |
 | ------- |
@@ -2341,6 +2344,7 @@
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ranadipgithub/leetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ranadipgithub/leetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |

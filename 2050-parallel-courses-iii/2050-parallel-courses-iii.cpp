@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
-        unordered_map<int, vector<int>> adj;
+        vector<vector<int>> adj(n);
         vector<int> indegree(n, 0);
         for(auto &edge: relations){
             int u = edge[0]-1, v = edge[1]-1;

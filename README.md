@@ -594,6 +594,7 @@
 | [1980-find-unique-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Ranadipgithub/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ranadipgithub/leetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -683,6 +684,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1706-where-will-the-ball-fall](https://github.com/Ranadipgithub/leetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2048-build-array-from-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Ranadipgithub/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Ranadipgithub/leetCode/tree/master/2169-simple-bank-system) |

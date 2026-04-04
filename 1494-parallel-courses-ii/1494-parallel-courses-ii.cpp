@@ -2,21 +2,22 @@ class Solution {
 public:
     int n, k;
     vector<int> dp;
+    vector<int> prereq;
     int solve(int mask, vector<vector<int>> &adj){
         if(mask == (1<<n)-1) return 0;
         if(dp[mask] != -1) return dp[mask];
-        vector<int> indegree(n, 0);
-        for(int i = 0; i < n; i++){
-            if(mask & (1<<i)) continue;
-            for(int &v: adj[i]){
-                if(!(mask & (1<<v))) {
-                    indegree[v]++;
-                }
-            }
-        }
+        // vector<int> indegree(n, 0);
+        // for(int i = 0; i < n; i++){
+        //     if(mask & (1<<i)) continue;
+        //     for(int &v: adj[i]){
+        //         if(!(mask & (1<<v))) {
+        //             indegree[v]++;
+        //         }
+        //     }
+        // }
         int avail_mask = 0; // identifies which courses are currently available to take
         for(int i = 0;i<n;i++){
-            if(indegree[i] == 0 && !(mask & (1<<i))){
+            if((mask & prereq[i]) == prereq[i] && !(mask & (1<<i))){
                 avail_mask |= (1<<i);
             }
         }
@@ -41,10 +42,12 @@ public:
         this->n = n;
         this->k = k;
         vector<vector<int>> adj(n);
+        prereq.assign(n, 0);
         for(auto &edge: relations){
             int u = edge[0]-1;
             int v = edge[1] -1;
             adj[u].push_back(v);
+            prereq[v] |= (1<<u);
         }
 
         dp.assign((1<<n), -1);

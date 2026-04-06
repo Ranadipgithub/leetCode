@@ -127,6 +127,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/Ranadipgithub/leetCode/tree/master/0854-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Ranadipgithub/leetCode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0874-walking-robot-simulation](https://github.com/Ranadipgithub/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -414,6 +415,7 @@
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Ranadipgithub/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -680,6 +682,7 @@
 | [0498-diagonal-traverse](https://github.com/Ranadipgithub/leetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Ranadipgithub/leetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Ranadipgithub/leetCode/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Ranadipgithub/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0898-transpose-matrix) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1386-shift-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1386-shift-2d-grid) |

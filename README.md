@@ -361,6 +361,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranadipgithub/leetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ranadipgithub/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ranadipgithub/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1588,6 +1589,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
 |  |

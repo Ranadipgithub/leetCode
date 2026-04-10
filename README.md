@@ -366,6 +366,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ranadipgithub/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ranadipgithub/leetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ranadipgithub/leetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ranadipgithub/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -493,6 +494,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ranadipgithub/leetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ranadipgithub/leetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ranadipgithub/leetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |

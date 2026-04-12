@@ -578,6 +578,7 @@
 | [1304-longest-happy-string](https://github.com/Ranadipgithub/leetCode/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Ranadipgithub/leetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ranadipgithub/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ranadipgithub/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ranadipgithub/leetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -885,6 +886,7 @@
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/Ranadipgithub/leetCode/tree/master/1290-make-array-strictly-increasing) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ranadipgithub/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ranadipgithub/leetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |

@@ -750,6 +750,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Ranadipgithub/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranadipgithub/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ranadipgithub/leetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1005,6 +1006,7 @@
 | [0684-redundant-connection](https://github.com/Ranadipgithub/leetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
@@ -1819,6 +1821,7 @@
 | [0684-redundant-connection](https://github.com/Ranadipgithub/leetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Ranadipgithub/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ranadipgithub/leetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -2168,6 +2171,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
@@ -2359,6 +2363,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ranadipgithub/leetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ranadipgithub/leetCode/tree/master/0841-keys-and-rooms) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1042-flower-planting-with-no-adjacent) |

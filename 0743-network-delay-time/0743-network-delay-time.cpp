@@ -1,7 +1,7 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        unordered_map<int, vector<pair<int, int>>> adj;
+        vector<vector<pair<int, int>>> adj(n);
         for(auto &edge: times){
             int u = edge[0]-1, v = edge[1]-1, w = edge[2];
             adj[u].push_back({v, w});

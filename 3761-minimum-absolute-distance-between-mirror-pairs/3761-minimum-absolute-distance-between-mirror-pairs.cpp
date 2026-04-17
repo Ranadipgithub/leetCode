@@ -18,7 +18,6 @@ public:
 
         for(int i = 0;i<n;i++){
             int reverse = rev(nums[i]);
-            cout << reverse << " ";
             if(mpp.count(reverse)){
                 auto it = upper_bound(mpp[reverse].begin(), mpp[reverse].end(), i);
                 // int idx = it-mpp[reverse].begin();

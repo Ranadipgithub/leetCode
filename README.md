@@ -336,6 +336,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranadipgithub/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3453-separate-squares-i](https://github.com/Ranadipgithub/leetCode/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ranadipgithub/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ranadipgithub/leetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1153,6 +1154,7 @@
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ranadipgithub/leetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ranadipgithub/leetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ranadipgithub/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1434,6 +1436,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Ranadipgithub/leetCode/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ranadipgithub/leetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1715,6 +1718,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ranadipgithub/leetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/Ranadipgithub/leetCode/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranadipgithub/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Ranadipgithub/leetCode/tree/master/3606-coupon-code-validator) |
@@ -2357,6 +2361,7 @@
 | [0830-largest-triangle-area](https://github.com/Ranadipgithub/leetCode/tree/master/0830-largest-triangle-area) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ranadipgithub/leetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ranadipgithub/leetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Brainteaser
 |  |

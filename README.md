@@ -2350,6 +2350,7 @@
 | [0185-department-top-three-salaries](https://github.com/Ranadipgithub/leetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Ranadipgithub/leetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Ranadipgithub/leetCode/tree/master/0197-rising-temperature) |
+| [3436-find-valid-emails](https://github.com/Ranadipgithub/leetCode/tree/master/3436-find-valid-emails) |
 ## Doubly-Linked List
 |  |
 | ------- |

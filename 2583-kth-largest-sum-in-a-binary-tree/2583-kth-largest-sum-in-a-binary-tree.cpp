@@ -12,9 +12,9 @@
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
-        vector<long long> res;
         queue<TreeNode *> q;
         q.push(root);
+        priority_queue<long long, vector<long long>, greater<long long>> pq;
         while(!q.empty()){
             int size = q.size();
             long long sum = 0;
@@ -26,10 +26,9 @@ public:
                 if(node->left) q.push(node->left);
                 if(node->right) q.push(node->right); 
             }
-            res.push_back(sum);
+            pq.push(sum);
+            if(pq.size() > k) pq.pop();
         }
-        sort(res.begin(), res.end(), greater<long long>());
-        if(k > res.size()) return -1;
-        return res[k-1];
+        return pq.size() < k ? -1 : pq.top();
     }
 };

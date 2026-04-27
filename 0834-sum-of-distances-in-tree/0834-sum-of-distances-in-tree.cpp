@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> child;
-    int cntChild(int node, int parent, unordered_map<int, vector<int>> &adj){
+    int cntChild(int node, int parent, vector<vector<int>> &adj){
         int cnt = 0;
         for(auto &ngbr: adj[node]){
             if(ngbr == parent) continue;
@@ -10,7 +10,7 @@ public:
         child[node] = cnt + 1;
         return child[node];
     }
-    int solve(int node, unordered_map<int, vector<int>> &adj,  int n){
+    int solve(int node, vector<vector<int>> &adj,  int n){
         queue<int> q;
         q.push(node);
         vector<int> visited(n, 0);
@@ -34,7 +34,7 @@ public:
         }
         return dist;
     }
-    void bfs(int node, int parent, unordered_map<int, vector<int>> &adj, int rootCnt, int n, vector<int>&res){
+    void bfs(int node, int parent, vector<vector<int>> &adj, int rootCnt, int n, vector<int>&res){
         for(auto &v: adj[node]){
             if(v == parent) continue;
             int cntChilds = child[v];
@@ -43,7 +43,7 @@ public:
         }
     }
     vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
-        unordered_map<int, vector<int>> adj;
+        vector<vector<int>> adj(n);
         child.resize(n, 0);
         for(auto &edge: edges){
             int u = edge[0], v= edge[1];

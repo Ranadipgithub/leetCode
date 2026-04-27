@@ -11,25 +11,21 @@ public:
         if(dp[i][j][xi][yi] != -1) return dp[i][j][xi][yi];
         long long ways = 0;
 
+        ways = (ways + solve(i+1, j, s, x, y)) % mod;
         if(j == 0){
             ways = (ways + solve(i+1, j+1, s, s[i], y)) % mod;
-            ways = (ways + solve(i+1, j, s, x, y)) % mod;
         } else if(j == 1){
             ways = (ways + solve(i+1, j+1, s, x, s[i])) % mod;
-            ways = (ways + solve(i+1, j, s, x, y)) % mod;
         } else if(j == 2){
             ways = (ways + solve(i+1, j+1, s, x, y)) % mod;
-            ways = (ways + solve(i+1, j, s, x, y)) % mod;
         } else if (j == 3){
             if(s[i] == y){
                 ways = (ways + solve(i+1, j+1, s, x, y)) % mod;
             }
-            ways = (ways + solve(i+1, j, s, x, y)) % mod;
         } else if(j == 4){
             if(s[i] == x){
                 ways = (ways + solve(i+1, j+1, s, x, y)) % mod;
             }
-            ways = (ways + solve(i+1, j, s, x, y)) % mod;
         }
 
         return dp[i][j][xi][yi] = (ways % mod + mod) % mod;

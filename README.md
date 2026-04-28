@@ -111,6 +111,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ranadipgithub/leetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Ranadipgithub/leetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ranadipgithub/leetCode/tree/master/0735-asteroid-collision) |
@@ -421,6 +422,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/Ranadipgithub/leetCode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ranadipgithub/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Ranadipgithub/leetCode/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
@@ -567,6 +569,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ranadipgithub/leetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
@@ -1024,6 +1027,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ranadipgithub/leetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0744-network-delay-time) |
@@ -1686,6 +1690,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranadipgithub/leetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
@@ -1853,6 +1858,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Ranadipgithub/leetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ranadipgithub/leetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ranadipgithub/leetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Ranadipgithub/leetCode/tree/master/0744-network-delay-time) |
@@ -2433,6 +2439,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranadipgithub/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |

@@ -205,6 +205,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ranadipgithub/leetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1562-find-latest-group-of-size-m](https://github.com/Ranadipgithub/leetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranadipgithub/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ranadipgithub/leetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -455,6 +456,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1562-find-latest-group-of-size-m](https://github.com/Ranadipgithub/leetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ranadipgithub/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranadipgithub/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -710,6 +712,7 @@
 | [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1386-shift-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1386-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1562-find-latest-group-of-size-m](https://github.com/Ranadipgithub/leetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [1642-water-bottles](https://github.com/Ranadipgithub/leetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1706-where-will-the-ball-fall](https://github.com/Ranadipgithub/leetCode/tree/master/1706-where-will-the-ball-fall) |
@@ -1436,6 +1439,7 @@
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ranadipgithub/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1562-find-latest-group-of-size-m](https://github.com/Ranadipgithub/leetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ranadipgithub/leetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranadipgithub/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ranadipgithub/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |

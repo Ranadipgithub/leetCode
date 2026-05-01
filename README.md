@@ -81,6 +81,7 @@
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Ranadipgithub/leetCode/tree/master/0377-combination-sum-iv) |
 | [0391-perfect-rectangle](https://github.com/Ranadipgithub/leetCode/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/Ranadipgithub/leetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Ranadipgithub/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Ranadipgithub/leetCode/tree/master/0413-arithmetic-slices) |
@@ -854,6 +855,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Ranadipgithub/leetCode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/Ranadipgithub/leetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Ranadipgithub/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Ranadipgithub/leetCode/tree/master/0413-arithmetic-slices) |
@@ -1123,6 +1125,7 @@
 | [0342-power-of-four](https://github.com/Ranadipgithub/leetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ranadipgithub/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0391-perfect-rectangle](https://github.com/Ranadipgithub/leetCode/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/Ranadipgithub/leetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ranadipgithub/leetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ranadipgithub/leetCode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0556-next-greater-element-iii) |

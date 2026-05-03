@@ -35,9 +35,9 @@ public:
         DSU alice(n);
         DSU bob(n);
 
-        sort(edges.begin(), edges.end(), [&](vector<int>&a, vector<int>&b){
-            return a[0] > b[0];
-        });
+        // sort(edges.begin(), edges.end(), [&](vector<int>&a, vector<int>&b){
+        //     return a[0] > b[0];
+        // });
 
         int cnt = 0;
         for(auto &edge: edges){
@@ -53,7 +53,11 @@ public:
                     fg = true;
                 }
                 if(fg) cnt++;
-            } else if(type == 2){
+            } 
+        }
+        for(auto &edge: edges){
+            int type = edge[0], u = edge[1], v = edge[2];
+            if(type == 2){
                 if(bob.find(u) != bob.find(v)){
                     bob.Union(u, v);
                     cnt++;

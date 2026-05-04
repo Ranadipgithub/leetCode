@@ -21,25 +21,35 @@ public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
         parent.resize(n);
-        rank.resize(n, 0);
-        for(int i = 0;i<n;i++) parent[i] = i;
-        vector<vector<int>> edges;
-        for(int i = 0;i<points.size();i++){
-            for(int j = i+1;j<points.size();j++){
-                int x1 = points[i][0], y1 = points[i][1];
-                int x2 = points[j][0], y2 = points[j][1];
-                int dist = abs(x1-x2) + abs(y1-y2);
-                edges.push_back({dist, i, j});
+        rank.assign(n, 0);
+        for (int i = 0; i < n; i++) parent[i] = i;
+
+        vector<pair<int, pair<int, int>>> edgeList;
+        edgeList.reserve(n * (n - 1) / 2); 
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int dist = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1]);
+                edgeList.push_back({dist, {i, j}});
             }
         }
-        sort(edges.begin(), edges.end());
+
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq(edgeList.begin(), edgeList.end());
+
         int cost = 0, cntEdge = 0;
-        for(auto &edge: edges){
-            if(find(edge[1]) == find(edge[2])) continue;
-            cost += edge[0];
-            Union(edge[1], edge[2]);
-            cntEdge++;
-            if(cntEdge == points.size()-1) break;
+        while (cntEdge < n - 1) {
+            auto top = pq.top();
+            pq.pop();
+            
+            int wt = top.first;
+            int u = top.second.first;
+            int v = top.second.second;
+
+            if (find(u) != find(v)) {
+                cost += wt;
+                Union(u, v);
+                cntEdge++;
+            }
         }
         return cost;
     }

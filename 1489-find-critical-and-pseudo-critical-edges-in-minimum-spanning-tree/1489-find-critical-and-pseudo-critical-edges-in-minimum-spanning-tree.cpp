@@ -30,11 +30,10 @@ public:
         }
         for(int i = 0;i<edges.size();i++){
             if(i == blocked) continue;
-            vector<int> edge = edges[i];
-            if(find(edge[0]) == find(edge[1])) continue;
-            cost += edge[2];
+            if(find(edges[i][0]) == find(edges[i][1])) continue;
+            cost += edges[i][2];
             cntedge++;
-            Union(edge[0], edge[1]);
+            Union(edges[i][0], edges[i][1]);
             if(cntedge == n-1) break;
         }
         return cntedge == n-1? cost: 1e9;

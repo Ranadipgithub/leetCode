@@ -1722,6 +1722,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ranadipgithub/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ranadipgithub/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-best-team-with-no-conflicts](https://github.com/Ranadipgithub/leetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -2360,6 +2361,7 @@
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -2437,6 +2439,7 @@
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ranadipgithub/leetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ranadipgithub/leetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ranadipgithub/leetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -2458,6 +2461,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ranadipgithub/leetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -2466,4 +2470,8 @@
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->

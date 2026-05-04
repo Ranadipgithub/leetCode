@@ -207,6 +207,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1562-find-latest-group-of-size-m](https://github.com/Ranadipgithub/leetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranadipgithub/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ranadipgithub/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -2359,6 +2360,7 @@
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Rolling Hash
@@ -2437,6 +2439,7 @@
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ranadipgithub/leetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2050-parallel-courses-iii) |
@@ -2457,6 +2460,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ranadipgithub/leetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranadipgithub/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |

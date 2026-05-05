@@ -12,7 +12,7 @@ public:
         for(int i = 0;i<numCourses;i++){
             if(indegree[i] == 0) q.push(i);
         }
-        unordered_map<int, unordered_set<int>> mpp;
+        vector<unordered_set<int>> mpp(numCourses);
         while(!q.empty()){
             int node = q.front();
             q.pop();

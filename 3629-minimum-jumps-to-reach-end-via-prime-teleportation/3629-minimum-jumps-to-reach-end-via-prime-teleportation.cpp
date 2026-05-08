@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void sieve(int n, vector<bool>&isPrime){
+    static void sieve(int n, vector<bool>&isPrime){
         isPrime.assign(n+1, true);
         isPrime[0] = isPrime[1] = false;
         for(int p = 2;p*p<=n;p++){
@@ -13,7 +13,6 @@ public:
     }
     int minJumps(vector<int>& nums) {
         int n = nums.size();
-        if (n <= 1) return 0;
         int maxi = *max_element(nums.begin(), nums.end());
         static vector<bool> isPrime;
         static bool built = false;
@@ -21,7 +20,6 @@ public:
             built = true;
             sieve(1e6, isPrime);
         }
-        vector<bool> primeVisited(maxi + 1, false);
         unordered_map<int, vector<int>> mpp;
         for(int i = 0;i<n;i++){
             mpp[nums[i]].push_back(i);
@@ -46,8 +44,7 @@ public:
                     visited[u-1] = 1;
                     q.push(u-1);
                 }
-                if(nums[u] <= 1000000 && isPrime[nums[u]] && !primeVisited[nums[u]]){
-                    primeVisited[nums[u]] = true;
+                if(isPrime[nums[u]]){
                     for(int i = nums[u];i<=maxi;i+= nums[u]){
                         if(mpp.count(i)){
                             for(auto &idx: mpp[i]){
@@ -56,7 +53,7 @@ public:
                                     q.push(idx);
                                 }
                             }
-                            mpp.erase(i);
+                            mpp[i].clear();
                         }
                     }
                 }

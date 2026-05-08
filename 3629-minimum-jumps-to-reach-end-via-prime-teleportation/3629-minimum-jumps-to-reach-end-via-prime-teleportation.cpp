@@ -53,7 +53,7 @@ public:
                                     q.push(idx);
                                 }
                             }
-                            mpp[i].clear();
+                            mpp.erase(i);
                         }
                     }
                 }

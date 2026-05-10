@@ -10,7 +10,7 @@ public:
         }
 
         vector<int> res;
-        for(auto it: mpp){
+        for(auto &it: mpp){
             reverse(it.begin(), it.end());
             for(int &x: it) res.push_back(x);
         }

@@ -297,6 +297,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Ranadipgithub/leetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -738,6 +739,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Ranadipgithub/leetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |

@@ -221,6 +221,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ranadipgithub/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Ranadipgithub/leetCode/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ranadipgithub/leetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranadipgithub/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1388,6 +1389,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranadipgithub/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ranadipgithub/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ranadipgithub/leetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranadipgithub/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1740,6 +1742,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ranadipgithub/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-best-team-with-no-conflicts](https://github.com/Ranadipgithub/leetCode/tree/master/1626-best-team-with-no-conflicts) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ranadipgithub/leetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |

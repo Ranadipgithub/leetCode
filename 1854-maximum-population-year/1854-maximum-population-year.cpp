@@ -8,7 +8,7 @@ public:
             diff[end+1] -=1;
         }
         int maxi = INT_MIN, ans = -1;
-        for(int i = 1;i<diff.size();i++){
+        for(int i = 1950;i<diff.size();i++){
             diff[i] += diff[i-1];
             if(diff[i] > maxi){
                 maxi = diff[i];

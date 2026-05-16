@@ -1,20 +1,21 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        vector<int> diff(2051, 0);
+        vector<pair<int, int>> events;
         for(auto &log: logs){
-            int start = log[0], end = log[1]-1;
-            diff[start] += 1;
-            diff[end+1] -=1;
+            events.push_back({log[0], +1});
+            events.push_back({log[1], -1});
         }
-        int maxi = INT_MIN, ans = -1;
-        for(int i = 1950;i<diff.size();i++){
-            diff[i] += diff[i-1];
-            if(diff[i] > maxi){
-                maxi = diff[i];
-                ans = i;
+        sort(events.begin(), events.end());
+        int maxi = INT_MIN, maxYear = 1940;
+        int curr = 0;
+        for(auto &event: events){
+            curr += event.second;
+            if(curr > maxi){
+                maxi = curr;
+                maxYear = event.first;
             }
         }
-        return ans;
+        return maxYear;
     }
 };

@@ -9,9 +9,9 @@ public:
             diff[end] -= trip[0];
         }
         int cnt = 0;
-        for(int i = 1;i<diff.size();i++){
-            diff[i] += diff[i-1];
-            if(diff[i] > capacity) return false;
+        for(int i = 0;i<diff.size();i++){
+            cnt += diff[i];
+            if(cnt > capacity) return false;
         }
         return true;
     }

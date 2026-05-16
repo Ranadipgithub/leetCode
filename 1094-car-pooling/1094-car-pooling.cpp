@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
-        vector<pair<int, int>> events;
+        vector<int> diff(1001, 0);
         for(auto &trip: trips){
-            events.push_back({trip[1], trip[0]});
-            events.push_back({trip[2], -trip[0]});
+            int start = trip[1], end = trip[2];
+            if(trip[0] > capacity) return false;
+            diff[start] += trip[0];
+            diff[end] -= trip[0];
         }
-
-        sort(events.begin(), events.end());
-        int curr = 0;
-        for(auto &event: events){
-            curr += event.second;
-            if(curr > capacity) return false;
+        int cnt = 0;
+        for(int i = 1;i<diff.size();i++){
+            diff[i] += diff[i-1];
+            if(diff[i] > capacity) return false;
         }
         return true;
     }

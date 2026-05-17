@@ -182,6 +182,7 @@
 | [1293-three-consecutive-odds](https://github.com/Ranadipgithub/leetCode/tree/master/1293-three-consecutive-odds) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ranadipgithub/leetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
+| [1306-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/Ranadipgithub/leetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ranadipgithub/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1099,6 +1100,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ranadipgithub/leetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ranadipgithub/leetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1306-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/Ranadipgithub/leetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1958,6 +1960,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ranadipgithub/leetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1306-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/Ranadipgithub/leetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |

@@ -320,6 +320,7 @@
 | [2751-robot-collisions](https://github.com/Ranadipgithub/leetCode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ranadipgithub/leetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Ranadipgithub/leetCode/tree/master/2784-check-if-array-is-good) |
+| [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -506,6 +507,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/Ranadipgithub/leetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -1361,6 +1363,7 @@
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Ranadipgithub/leetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2906-construct-product-matrix) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranadipgithub/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |

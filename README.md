@@ -188,6 +188,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Ranadipgithub/leetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ranadipgithub/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Ranadipgithub/leetCode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1345-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ranadipgithub/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranadipgithub/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
@@ -468,6 +469,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ranadipgithub/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/Ranadipgithub/leetCode/tree/master/1308-smallest-string-with-swaps) |
+| [1345-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ranadipgithub/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1106,6 +1108,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ranadipgithub/leetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/Ranadipgithub/leetCode/tree/master/1308-smallest-string-with-swaps) |
+| [1345-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1345-jump-game-iv) |
 | [1380-number-of-closed-islands](https://github.com/Ranadipgithub/leetCode/tree/master/1380-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |

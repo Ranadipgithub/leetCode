@@ -13,7 +13,6 @@ public:
             curr += event.second;
             mpp[event.first] = curr;
         }
-        for(auto it: mpp) cout << it.first << " " << it.second << endl;
         vector<int> res(people.size());
         for(int i = 0;i<people.size();i++){
             auto it = mpp.lower_bound(people[i]);

@@ -330,6 +330,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranadipgithub/leetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ranadipgithub/leetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranadipgithub/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -514,6 +515,7 @@
 | [2784-check-if-array-is-good](https://github.com/Ranadipgithub/leetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -678,6 +680,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Ranadipgithub/leetCode/tree/master/2938-separate-black-and-white-balls) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ranadipgithub/leetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -2386,6 +2389,7 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ranadipgithub/leetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/Ranadipgithub/leetCode/tree/master/0648-replace-words) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ranadipgithub/leetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3376-longest-common-suffix-queries) |

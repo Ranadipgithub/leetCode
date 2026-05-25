@@ -651,6 +651,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-palindrome-partitioning-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1871-palindrome-partitioning-iv) |
+| [1871-jump-game-vii](https://github.com/Ranadipgithub/leetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ranadipgithub/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -989,6 +990,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-palindrome-partitioning-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1871-palindrome-partitioning-iv) |
+| [1871-jump-game-vii](https://github.com/Ranadipgithub/leetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ranadipgithub/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ranadipgithub/leetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -1316,6 +1318,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ranadipgithub/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranadipgithub/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1871-jump-game-vii](https://github.com/Ranadipgithub/leetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ranadipgithub/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ranadipgithub/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -1365,6 +1368,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1854-maximum-population-year](https://github.com/Ranadipgithub/leetCode/tree/master/1854-maximum-population-year) |
+| [1871-jump-game-vii](https://github.com/Ranadipgithub/leetCode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Ranadipgithub/leetCode/tree/master/1895-largest-magic-square) |
 | [1943-describe-the-painting](https://github.com/Ranadipgithub/leetCode/tree/master/1943-describe-the-painting) |

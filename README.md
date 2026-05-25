@@ -769,6 +769,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Ranadipgithub/leetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ranadipgithub/leetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2551-apply-operations-to-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Ranadipgithub/leetCode/tree/master/2751-robot-collisions) |
@@ -1224,6 +1225,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ranadipgithub/leetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -2475,6 +2477,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Ranadipgithub/leetCode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ranadipgithub/leetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranadipgithub/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database

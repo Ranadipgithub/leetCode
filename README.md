@@ -519,6 +519,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ranadipgithub/leetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -686,6 +687,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ranadipgithub/leetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ranadipgithub/leetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |

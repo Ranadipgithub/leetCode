@@ -1,23 +1,16 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        int n = word.size();
-        unordered_set<char> st;
-        vector<int> res(26, 0);
+        int n  = word.size();
+        vector<int> upper(26, 0), lower(26, 0);
         for(int i = 0;i<n;i++){
-            if(isupper(word[i])){
-                if(st.count(tolower(word[i]))){
-                    res[tolower(word[i])-'a'] = 1;
-                    st.erase(tolower(word[i]));
-                } else st.insert(word[i]);
-            } else {
-                if(st.count(toupper(word[i]))){
-                    res[word[i]-'a'] = 1;
-                    st.erase(toupper(word[i]));
-                } else st.insert(word[i]);
-            }
+            if(isupper(word[i])) upper[word[i]-'A']++;
+            else lower[word[i]-'a']++;
         }
-        int sum = accumulate(res.begin(), res.end(), 0);
-        return sum;
+        int cnt = 0;
+        for(int i = 0;i<26;i++){
+            if(lower[i] > 0 && upper[i] > 0) cnt++;
+        }
+        return cnt;
     }
 };

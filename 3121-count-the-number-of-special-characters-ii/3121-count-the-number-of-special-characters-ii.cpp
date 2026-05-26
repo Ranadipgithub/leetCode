@@ -3,10 +3,9 @@ public:
     int numberOfSpecialChars(string word) {
         int n = word.size();
         unordered_map<char, int> mpp;
-        unordered_map<char, vector<int>> upper, lower;
+        unordered_map<char, vector<int>> lower;
         for(int i = 0;i<n;i++){
-            if(isupper(word[i])) upper[tolower(word[i])].push_back(i);
-            else lower[word[i]].push_back(i);
+            if(islower(word[i])) lower[word[i]].push_back(i);
         }
         int cnt = 0;
         vector<int> res(26, 0);

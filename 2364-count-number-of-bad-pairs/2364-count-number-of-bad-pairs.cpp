@@ -7,13 +7,11 @@ public:
         int n = nums.size();
         unordered_map<int, int> mpp;
         long long cnt = 0;
-        mpp[nums[0]]++;
-        for(int i = 1;i<n;i++){
-            if(mpp.count(nums[i]-i)){
-                cnt += (long long)i-(mpp[nums[i]-i]);
-            } else cnt += i;
+        long long total = (long long) n * (n-1)/2;
+        for(int i = 0;i<n;i++){
+            cnt += (long long)mpp[nums[i]-i];
             mpp[nums[i]-i]++;
         }
-        return cnt;
+        return total - cnt;
     }
 };

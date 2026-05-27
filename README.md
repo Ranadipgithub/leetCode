@@ -298,6 +298,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2364-count-number-of-bad-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ranadipgithub/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranadipgithub/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -508,6 +509,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ranadipgithub/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ranadipgithub/leetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2272-substring-with-largest-variance](https://github.com/Ranadipgithub/leetCode/tree/master/2272-substring-with-largest-variance) |
+| [2364-count-number-of-bad-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Ranadipgithub/leetCode/tree/master/2434-design-a-number-container-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -733,6 +735,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ranadipgithub/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2364-count-number-of-bad-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ranadipgithub/leetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -1230,6 +1233,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Ranadipgithub/leetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ranadipgithub/leetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |

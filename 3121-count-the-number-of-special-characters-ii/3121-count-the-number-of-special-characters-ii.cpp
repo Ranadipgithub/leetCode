@@ -2,24 +2,22 @@ class Solution {
 public:
     int numberOfSpecialChars(string word) {
         int n = word.size();
-        unordered_map<char, int> mpp;
-        unordered_map<char, vector<int>> lower;
+        vector<int> last(26, 1e6);
         for(int i = 0;i<n;i++){
-            if(islower(word[i])) lower[word[i]].push_back(i);
+            if(islower(word[i])) last[word[i]-'a'] = i;
         }
         int cnt = 0;
-        vector<int> res(26, 0);
-        unordered_set<char> visited;
         for(int i = 0;i<n;i++){
-            if(isupper(word[i]) && !visited.count(word[i])){
-                if(mpp.count(tolower(word[i]))){
-                    vector<int> temp = lower[tolower(word[i])];
-                    auto it = upper_bound(temp.begin(), temp.end(), i);
-                    if(it == temp.end()) res[word[i]-'A'] = 1;
-                }
-                visited.insert(word[i]);
-            } else mpp[word[i]]++;
+            if(isupper(word[i])){
+                int pos = last[word[i]-'A'];
+                if(pos > i){
+                    last[word[i]-'A'] = 1e6;
+                } else{
+                    last[word[i]-'A'] = 1e6;
+                    cnt++;
+                } 
+            }
         }
-        return accumulate(res.begin(), res.end(), 0);
+        return cnt;
     }
 };

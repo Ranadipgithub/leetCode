@@ -347,6 +347,7 @@
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3152-special-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3152-special-array-ii) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ranadipgithub/leetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ranadipgithub/leetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -528,6 +529,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ranadipgithub/leetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -741,6 +743,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ranadipgithub/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ranadipgithub/leetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1249,6 +1252,7 @@
 | [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2998-count-symmetric-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2998-count-symmetric-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |

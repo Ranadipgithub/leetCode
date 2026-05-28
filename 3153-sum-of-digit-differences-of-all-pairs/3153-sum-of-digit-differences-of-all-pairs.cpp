@@ -6,13 +6,13 @@ public:
         int size = str.size();
         long long total = 0;
         for(int i = 0;i<size;i++){
-            unordered_map<char, int> mpp;
+            vector<int> mpp(10, 0);
             long long cnt = 0;
             for(int j = 0;j<n;j++){
                 string str = to_string(nums[j]);
                 char ch = str[i];
-                cnt += j - mpp[ch];
-                mpp[ch]++;
+                cnt += j - mpp[ch-'0'];
+                mpp[ch-'0']++;
             }
             total += cnt;
         }

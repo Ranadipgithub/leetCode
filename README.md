@@ -524,6 +524,7 @@
 | [2784-check-if-array-is-good](https://github.com/Ranadipgithub/leetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ranadipgithub/leetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -691,6 +692,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Ranadipgithub/leetCode/tree/master/2938-separate-black-and-white-balls) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ranadipgithub/leetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
@@ -1244,6 +1246,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2998-count-symmetric-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2998-count-symmetric-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranadipgithub/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1402,6 +1405,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/2906-construct-product-matrix) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ranadipgithub/leetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranadipgithub/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ranadipgithub/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -2493,6 +2497,7 @@
 | [0204-count-primes](https://github.com/Ranadipgithub/leetCode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ranadipgithub/leetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranadipgithub/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database

@@ -141,6 +141,7 @@
 | [0907-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0907-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ranadipgithub/leetCode/tree/master/0940-fruit-into-baskets) |
@@ -466,6 +467,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ranadipgithub/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-maximum-frequency-stack](https://github.com/Ranadipgithub/leetCode/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/Ranadipgithub/leetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranadipgithub/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1329,6 +1331,7 @@
 | [0658-find-k-closest-elements](https://github.com/Ranadipgithub/leetCode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ranadipgithub/leetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -1377,6 +1380,7 @@
 | [0731-my-calendar-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0732-my-calendar-iii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ranadipgithub/leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/1016-subarray-sums-divisible-by-k) |

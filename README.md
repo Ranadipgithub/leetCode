@@ -351,6 +351,7 @@
 | [3152-special-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3152-special-array-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ranadipgithub/leetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ranadipgithub/leetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -1572,6 +1573,7 @@
 | [2540-minimum-common-value](https://github.com/Ranadipgithub/leetCode/tree/master/2540-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3152-special-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3152-special-array-ii) |
+| [3161-block-placement-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1764,6 +1766,7 @@
 | [0493-reverse-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Segment Tree
@@ -1780,6 +1783,7 @@
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
 | [1622-fancy-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3721-longest-balanced-subarray-ii) |

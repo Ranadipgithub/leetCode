@@ -403,6 +403,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ranadipgithub/leetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranadipgithub/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ranadipgithub/leetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1516,6 +1517,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ranadipgithub/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranadipgithub/leetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
@@ -1586,6 +1588,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ranadipgithub/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1710,6 +1713,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/Ranadipgithub/leetCode/tree/master/2938-separate-black-and-white-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranadipgithub/leetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ranadipgithub/leetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -1892,6 +1896,7 @@
 | [3606-coupon-code-validator](https://github.com/Ranadipgithub/leetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ranadipgithub/leetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ranadipgithub/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |

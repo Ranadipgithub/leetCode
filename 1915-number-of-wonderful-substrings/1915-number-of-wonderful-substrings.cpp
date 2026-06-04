@@ -22,7 +22,8 @@ public:
         // 
         int n = word.size();
         int mask = 0;
-        unordered_map<int, long long> mpp;
+        // unordered_map<int, long long> mpp;
+        vector<long long> mpp(1024, 0);
         mpp[0] = 1;
         long long cnt = 0;
         for(int i = 0;i<n;i++){

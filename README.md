@@ -322,6 +322,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Ranadipgithub/leetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -527,6 +528,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2540-minimum-common-value](https://github.com/Ranadipgithub/leetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2671-frequency-tracker](https://github.com/Ranadipgithub/leetCode/tree/master/2671-frequency-tracker) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1321,6 +1323,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ranadipgithub/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1423,6 +1426,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Ranadipgithub/leetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2625-increment-submatrices-by-one](https://github.com/Ranadipgithub/leetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Ranadipgithub/leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Ranadipgithub/leetCode/tree/master/2848-points-that-intersect-with-cars) |

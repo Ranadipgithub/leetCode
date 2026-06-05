@@ -1059,6 +1059,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ranadipgithub/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ranadipgithub/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ranadipgithub/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Backtracking
 |  |
@@ -1288,6 +1289,7 @@
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ranadipgithub/leetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ranadipgithub/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ranadipgithub/leetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

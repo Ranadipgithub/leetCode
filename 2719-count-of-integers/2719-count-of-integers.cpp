@@ -10,9 +10,6 @@ public:
         }
         if(i >= 0) s[i]--;
         return s;
-        // int pos = 0;
-        // while(pos + 1 < s.size() && s[pos] == '0') pos++;
-        // return s.substr(pos);
     }
     int solve(string &s, int idx, int tight, int lz, int mini, int maxi, int curr){
         if(idx == s.size()){

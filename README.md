@@ -703,6 +703,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Ranadipgithub/leetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2719-count-of-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2719-count-of-integers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1041,6 +1042,7 @@
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2719-count-of-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2719-count-of-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ranadipgithub/leetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -1271,6 +1273,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2719-count-of-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2719-count-of-integers) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |

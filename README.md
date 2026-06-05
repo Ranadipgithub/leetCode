@@ -983,6 +983,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0968-binary-tree-cameras](https://github.com/Ranadipgithub/leetCode/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ranadipgithub/leetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1012-numbers-with-repeated-digits](https://github.com/Ranadipgithub/leetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -1232,6 +1233,7 @@
 | [0788-rotated-digits](https://github.com/Ranadipgithub/leetCode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Ranadipgithub/leetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
+| [1012-numbers-with-repeated-digits](https://github.com/Ranadipgithub/leetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranadipgithub/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Ranadipgithub/leetCode/tree/master/1390-four-divisors) |

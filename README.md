@@ -287,6 +287,7 @@
 | [2169-simple-bank-system](https://github.com/Ranadipgithub/leetCode/tree/master/2169-simple-bank-system) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2183-minimum-operations-to-convert-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ranadipgithub/leetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ranadipgithub/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -519,6 +520,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ranadipgithub/leetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2169-simple-bank-system](https://github.com/Ranadipgithub/leetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ranadipgithub/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ranadipgithub/leetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ranadipgithub/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1990,6 +1992,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ranadipgithub/leetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -2163,6 +2166,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Ranadipgithub/leetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ranadipgithub/leetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |

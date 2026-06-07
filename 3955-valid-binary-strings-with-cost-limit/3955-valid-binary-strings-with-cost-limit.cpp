@@ -16,7 +16,8 @@ public:
     }
     vector<string> generateValidStrings(int n, int k) {
         vector<string> res;
-        string temp = "";
+        string temp;
+        temp.reserve(n);
         solve(temp, res, n, '0', k, 0);
         return res;
     }

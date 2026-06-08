@@ -284,6 +284,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ranadipgithub/leetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ranadipgithub/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Ranadipgithub/leetCode/tree/master/2169-simple-bank-system) |
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2183-minimum-operations-to-convert-number) |
@@ -796,6 +797,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ranadipgithub/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ranadipgithub/leetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Ranadipgithub/leetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Ranadipgithub/leetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2228-watering-plants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2228-watering-plants-ii) |
@@ -1731,6 +1733,7 @@
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1972-rotating-the-box](https://github.com/Ranadipgithub/leetCode/tree/master/1972-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ranadipgithub/leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |

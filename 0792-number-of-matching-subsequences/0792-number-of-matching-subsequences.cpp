@@ -1,28 +1,21 @@
 class Solution {
 public:
-    int numMatchingSubseq(string s, vector<string>& words) {
-        unordered_map<char, vector<int>> mpp;
-        for(int i = 0;i<s.size();i++){
-            mpp[s[i]].push_back(i);
+    bool isSub(string s, string word) {
+        int i = 0, j = 0;
+        while (i < s.size() && j < word.size()) {
+            if (s[i] == word[j]) j++;
+            i++;
         }
+        return j == word.size();
+    }
+    int numMatchingSubseq(string s, vector<string>& words) {
+        int n = words.size();
         int cnt = 0;
-        for(int i = 0;i<words.size();i++){
-            bool fg = true;
-            int prev = -1;
-            for(int j = 0;j<words[i].size();j++){
-                char ch = words[i][j];
-                if(!mpp.count(ch)){
-                    fg = false;
-                    break;
-                }
-                auto it = upper_bound(mpp[ch].begin(), mpp[ch].end(), prev);
-                if(it == mpp[ch].end()) {
-                    fg = false;
-                    break;
-                }
-                prev = *it;
-            }
-            if(fg) cnt++;
+        
+        unordered_map<string, int> mpp;
+        for(string &word: words) mpp[word]++;
+        for(auto it: mpp){
+            if(isSub(s, it.first)) cnt+=mpp[it.first];
         }
         return cnt;
     }

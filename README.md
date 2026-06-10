@@ -138,6 +138,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/0898-transpose-matrix) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ranadipgithub/leetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0907-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -986,6 +987,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ranadipgithub/leetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-all-possible-full-binary-trees](https://github.com/Ranadipgithub/leetCode/tree/master/0930-all-possible-full-binary-trees) |
@@ -1333,6 +1335,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/Ranadipgithub/leetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Ranadipgithub/leetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranadipgithub/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |

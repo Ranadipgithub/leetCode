@@ -2,6 +2,7 @@ class Solution {
 public:
     bool isSub(string s, string word) {
         int i = 0, j = 0;
+        if(word.size() > s.size()) return false;
         while (i < s.size() && j < word.size()) {
             if (s[i] == word[j]) j++;
             i++;

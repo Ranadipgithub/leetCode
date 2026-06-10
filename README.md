@@ -127,6 +127,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Ranadipgithub/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
+| [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Ranadipgithub/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ranadipgithub/leetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0830-largest-triangle-area](https://github.com/Ranadipgithub/leetCode/tree/master/0830-largest-triangle-area) |
@@ -476,6 +477,7 @@
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Ranadipgithub/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -642,6 +644,7 @@
 | [0752-open-the-lock](https://github.com/Ranadipgithub/leetCode/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Ranadipgithub/leetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ranadipgithub/leetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranadipgithub/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -983,6 +986,7 @@
 | [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Ranadipgithub/leetCode/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/Ranadipgithub/leetCode/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0834-sum-of-distances-in-tree) |
@@ -1582,6 +1586,7 @@
 | [0729-my-calendar-i](https://github.com/Ranadipgithub/leetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ranadipgithub/leetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ranadipgithub/leetCode/tree/master/0732-my-calendar-iii) |
+| [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Ranadipgithub/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1871,6 +1876,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ranadipgithub/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/Ranadipgithub/leetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Ranadipgithub/leetCode/tree/master/0941-sort-array-by-parity) |
@@ -2489,6 +2495,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ranadipgithub/leetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/Ranadipgithub/leetCode/tree/master/0648-replace-words) |
+| [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ranadipgithub/leetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3093-longest-common-suffix-queries) |

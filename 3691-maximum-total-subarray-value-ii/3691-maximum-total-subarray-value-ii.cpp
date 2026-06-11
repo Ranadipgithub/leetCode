@@ -1,87 +1,72 @@
-class SegmentTree {
+class SegTree {
 public:
-    vector<int> segmentTree;
-    bool isMinTree;
-    SegmentTree(vector<int>& nums, bool flag) {
+    vector<int> segTree;
+    bool isMini;
+    SegTree(vector<int> nums, bool isMini){
         int n = nums.size();
-        this->isMinTree = flag;
-        segmentTree.resize(4 * n);
-        buildSegmentTree(0, 0, n - 1, nums);
+        segTree.resize(4*n);
+        this->isMini = isMini;
+        buildSegTree(0, 0, n-1, nums);
     }
 
-    void buildSegmentTree(int i, int l, int r, vector<int>& nums) {
-        if (l == r) {
-            segmentTree[i] = nums[l];
+    void buildSegTree(int idx, int l, int r, vector<int>&nums){
+        if(l == r) {
+            segTree[idx] = nums[l];
             return;
         }
-        int mid = l + (r - l) / 2;
-        buildSegmentTree(2 * i + 1, l, mid, nums);
-        buildSegmentTree(2 * i + 2, mid + 1, r, nums);
-
-        if (isMinTree) {
-            segmentTree[i] = min(segmentTree[2 * i + 1], segmentTree[2 * i + 2]);
-        } else {
-            segmentTree[i] = max(segmentTree[2 * i + 1], segmentTree[2 * i + 2]);
-        }
+        int mid = l + (r-l)/2;
+        buildSegTree(2*idx+1, l, mid, nums);
+        buildSegTree(2*idx+2, mid+1, r, nums);
+        segTree[idx] = isMini? min(segTree[2*idx+1], segTree[2*idx+2]): max(segTree[2*idx+1], segTree[2*idx+2]);
     }
 
-    int querySegmentTree(int start, int end, int i, int l, int r) {
-        if (l > end || r < start) {
-            return isMinTree ? INT_MAX : INT_MIN;
+    int query(int start, int end, int i, int l, int r){
+        if(l > end || r < start) return isMini ? INT_MAX : INT_MIN;
+        else if(l >= start && r <= end) return segTree[i];
+        else {
+            int mid = l + (r-l)/2;
+            int left = query(start, end, 2*i+1, l, mid);
+            int right = query(start, end, 2*i+2, mid+1, r);
+            return isMini? min(left, right) : max(left, right);
         }
-
-        if (l >= start && r <= end) {
-            return segmentTree[i];
-        }
-
-        int mid = l + (r - l) / 2;
-        int a = querySegmentTree(start, end, 2 * i + 1, l, mid);
-        int b = querySegmentTree(start, end, 2 * i + 2, mid + 1, r);
-
-        if (isMinTree) {
-            return min(a, b);
-        }
-        return max(a, b);
-    }
-
-    int query(int l, int r, int n) {
-        return querySegmentTree(l, r, 0, 0, n - 1);
     }
 };
-
 class Solution {
 public:
     typedef long long ll;
-
-    ll getValue(int l, int r, SegmentTree& minST, SegmentTree& maxST, int n) {
-        int minEl = minST.query(l, r, n);
-        int maxEl = maxST.query(l, r, n);
-
-        return (ll)maxEl - minEl;
+    int findDiff(int l, int r, int n, SegTree &minST, SegTree &maxST){
+        int mini = minST.query(l, r, 0, 0, n-1);
+        int maxi = maxST.query(l, r, 0, 0, n-1);
+        return maxi-mini;
     }
-
+    
     long long maxTotalValue(vector<int>& nums, int k) {
+        // 4 2 5 1
+        // 0 2 3 4
+        // 0 3 4
+        // 0 4
+        // 0
+        // as we can see all these are in non decreasing order
+        // we have to find out top k values among these
         int n = nums.size();
-
-        SegmentTree minST(nums, true);  
-        SegmentTree maxST(nums, false); 
-
-        priority_queue<tuple<ll, int, int>> pq;
-
-        for (int l = 0; l < n; l++) { 
-            ll value = getValue(l, n - 1, minST, maxST, n); 
-            pq.push({value, l, n - 1});
+        SegTree minST(nums, true);
+        SegTree maxST(nums, false);
+        priority_queue<tuple<int, int, ll>> pq;
+        for(int i = 0;i<n;i++){
+            int diff = findDiff(i, n-1, n, minST, maxST);
+            pq.push({diff, i, n-1});
         }
-
-        ll result = 0;
-        while (k--) {
-            auto [value, l, r] = pq.top();
+        ll res = 0;
+        while(!pq.empty() && k--){
+            auto [diff, l, r] = pq.top();
             pq.pop();
-            result += value;
-            ll nextBestValue = getValue(l, r - 1, minST, maxST, n);
-            pq.push({nextBestValue, l, r - 1});
-        }
 
-        return result;
+            res += diff;
+            if (l <= r - 1) {
+                int newDiff = findDiff(l, r-1, n, minST, maxST);
+                pq.push({newDiff, l, r-1});
+            }
+        }
+        return res;
     }
 };

@@ -435,6 +435,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/Ranadipgithub/leetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Ranadipgithub/leetCode/tree/master/3863-power-grid-maintenance) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |

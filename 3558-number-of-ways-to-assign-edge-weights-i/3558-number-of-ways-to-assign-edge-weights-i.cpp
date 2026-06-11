@@ -1,14 +1,12 @@
 class Solution {
 public:
     int mod = 1e9 + 7;
-    long long modpow(long long a, long long e = 1) {
-        long long r = 1;
-        while (e > 0) {
-            if(e&1) r = (r*a)%mod;
-            a = (a*a)%mod;
-            e = e>>1;
-        }
-        return r;
+    long long modpow(long long a, long long b) {
+        if(b == 0) return 1;
+        long long half = modpow(a, b/2);
+        long long res = (half * half)%mod;
+        if(b%2 == 1) res = (res * a)%mod;
+        return res;
     }
     int maxd = 0;
     void dfs(int node, int depth, vector<int>& visited, vector<vector<int>>& adj) {

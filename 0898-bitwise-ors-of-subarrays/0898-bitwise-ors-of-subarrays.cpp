@@ -1,16 +1,14 @@
 class Solution {
 public:
     int subarrayBitwiseORs(vector<int>& arr) {
-        // as we include more elements it will increase the or value only
-        // adding more element will never decrease the or value
-        // so there is a monotonocity
         int n = arr.size();
-        unordered_set<int> res, prev;
+        unordered_set<int> prev, res;
         for(int i = 0;i<n;i++){
             unordered_set<int> curr;
-            for(auto &x: prev){
-                curr.insert(x|arr[i]);
-                res.insert(x|arr[i]);
+            for(auto &val: prev){
+                int newVal = val | arr[i];
+                curr.insert(newVal);
+                res.insert(newVal);
             }
             curr.insert(arr[i]);
             res.insert(arr[i]);

@@ -435,6 +435,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ranadipgithub/leetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Ranadipgithub/leetCode/tree/master/3863-power-grid-maintenance) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -752,6 +753,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ranadipgithub/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -828,6 +830,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |

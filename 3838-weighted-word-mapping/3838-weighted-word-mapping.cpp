@@ -8,7 +8,6 @@ public:
                 cnt += weights[ch-'a'];
             }
             cnt = cnt % 26;
-            cout << cnt << " ";
             res += 'z' - cnt;
         }
         return res;

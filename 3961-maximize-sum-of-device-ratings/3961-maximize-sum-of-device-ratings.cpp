@@ -23,13 +23,12 @@ public:
             }
             return sum;
         }
-        unordered_map<int, pair<int, int>> mpp;
         vector<int>smini;
         int mini = INT_MAX;
         for(int i = 0;i<units.size();i++){
-            mpp[i] = findMini(units[i]);
-            smini.push_back(mpp[i].second);
-            mini = min(mini, mpp[i].first);
+            pair<int, int> p = findMini(units[i]);
+            smini.push_back(p.second);
+            mini = min(mini, p.first);
         }
         sort(smini.begin(), smini.end());
         long long sum = accumulate(smini.begin()+1, smini.end(), 0LL);

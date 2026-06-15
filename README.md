@@ -439,6 +439,7 @@
 | [3863-power-grid-maintenance](https://github.com/Ranadipgithub/leetCode/tree/master/3863-power-grid-maintenance) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -755,6 +756,7 @@
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ranadipgithub/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Counting
 |  |
 | ------- |
@@ -1095,6 +1097,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Backtracking
 |  |
 | ------- |
@@ -1580,6 +1583,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranadipgithub/leetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Binary Search
 |  |
 | ------- |

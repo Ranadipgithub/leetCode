@@ -744,6 +744,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/Ranadipgithub/leetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -831,6 +832,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranadipgithub/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3790-fruits-into-baskets-ii) |

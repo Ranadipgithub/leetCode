@@ -16,10 +16,9 @@ public:
     int almostPalindromic(string s) {
         int n = s.size();
         dp.assign(n, vector<int>(n, -1));
-        solve(s, 0, n-1);
         int ans = -1;
         for(int i = 0;i<n;i++){
-            for(int j = 0;j<n;j++){
+            for(int j = i;j<n;j++){
                 if(j-i+1 <= ans) continue;
                 int res = solve(s, i, j);
                 if(res == 1 || res == 0){

@@ -20,6 +20,7 @@ public:
         int ans = -1;
         for(int i = 0;i<n;i++){
             for(int j = 0;j<n;j++){
+                if(j-i+1 <= ans) continue;
                 int res = solve(s, i, j);
                 if(res == 1 || res == 0){
                     ans = max(ans, j-i+1);

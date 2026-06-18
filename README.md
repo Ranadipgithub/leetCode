@@ -757,6 +757,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
+| [3844-longest-almost-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/3844-longest-almost-palindromic-substring) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ranadipgithub/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Counting
@@ -1100,6 +1101,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ranadipgithub/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3844-longest-almost-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/3844-longest-almost-palindromic-substring) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Backtracking
@@ -1792,6 +1794,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranadipgithub/leetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ranadipgithub/leetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3844-longest-almost-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/3844-longest-almost-palindromic-substring) |
 ## Enumeration
 |  |
 | ------- |

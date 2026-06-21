@@ -254,6 +254,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1840-maximum-building-height](https://github.com/Ranadipgithub/leetCode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ranadipgithub/leetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/Ranadipgithub/leetCode/tree/master/1854-maximum-population-year) |
 | [1876-map-of-highest-peak](https://github.com/Ranadipgithub/leetCode/tree/master/1876-map-of-highest-peak) |
@@ -1294,6 +1295,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ranadipgithub/leetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/Ranadipgithub/leetCode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Ranadipgithub/leetCode/tree/master/1925-count-square-sum-triples) |
@@ -1943,6 +1945,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/Ranadipgithub/leetCode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1943-describe-the-painting](https://github.com/Ranadipgithub/leetCode/tree/master/1943-describe-the-painting) |

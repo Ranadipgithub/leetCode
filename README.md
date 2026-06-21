@@ -254,6 +254,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ranadipgithub/leetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ranadipgithub/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Ranadipgithub/leetCode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ranadipgithub/leetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/Ranadipgithub/leetCode/tree/master/1854-maximum-population-year) |
@@ -1558,6 +1559,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ranadipgithub/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ranadipgithub/leetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ranadipgithub/leetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -1945,6 +1947,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ranadipgithub/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Ranadipgithub/leetCode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2603,6 +2606,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ranadipgithub/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Minimum Spanning Tree
 |  |
 | ------- |

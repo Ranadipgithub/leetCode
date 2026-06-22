@@ -503,6 +503,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ranadipgithub/leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/Ranadipgithub/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ranadipgithub/leetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ranadipgithub/leetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ranadipgithub/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -667,6 +668,7 @@
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/Ranadipgithub/leetCode/tree/master/1170-shortest-common-supersequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Ranadipgithub/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ranadipgithub/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/Ranadipgithub/leetCode/tree/master/1304-longest-happy-string) |
@@ -771,6 +773,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Ranadipgithub/leetCode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/Ranadipgithub/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranadipgithub/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Ranadipgithub/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1854-maximum-population-year](https://github.com/Ranadipgithub/leetCode/tree/master/1854-maximum-population-year) |

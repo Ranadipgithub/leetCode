@@ -1236,6 +1236,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ranadipgithub/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ranadipgithub/leetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -2179,6 +2180,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ranadipgithub/leetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ranadipgithub/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ranadipgithub/leetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -2715,6 +2717,7 @@
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ranadipgithub/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Ranadipgithub/leetCode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2733,6 +2736,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Ranadipgithub/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ranadipgithub/leetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranadipgithub/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ranadipgithub/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ranadipgithub/leetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ranadipgithub/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranadipgithub/leetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |

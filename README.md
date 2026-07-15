@@ -1350,6 +1350,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranadipgithub/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ranadipgithub/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ranadipgithub/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ranadipgithub/leetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -2647,6 +2648,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ranadipgithub/leetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranadipgithub/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ranadipgithub/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |

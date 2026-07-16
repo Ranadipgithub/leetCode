@@ -442,6 +442,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Ranadipgithub/leetCode/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -849,6 +850,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -1360,6 +1362,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Ranadipgithub/leetCode/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1815,6 +1818,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ranadipgithub/leetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/3844-longest-almost-palindromic-substring) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -2008,6 +2012,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ranadipgithub/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ranadipgithub/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
 |  |
 | ------- |
@@ -2650,6 +2655,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranadipgithub/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ranadipgithub/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |

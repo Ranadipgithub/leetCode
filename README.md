@@ -163,6 +163,7 @@
 | [0971-shortest-bridge](https://github.com/Ranadipgithub/leetCode/tree/master/0971-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ranadipgithub/leetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ranadipgithub/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranadipgithub/leetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranadipgithub/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -1647,6 +1648,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ranadipgithub/leetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ranadipgithub/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Ranadipgithub/leetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ranadipgithub/leetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |

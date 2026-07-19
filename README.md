@@ -136,6 +136,7 @@
 | [0854-making-a-large-island](https://github.com/Ranadipgithub/leetCode/tree/master/0854-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Ranadipgithub/leetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0874-walking-robot-simulation](https://github.com/Ranadipgithub/leetCode/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1640,6 +1641,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Ranadipgithub/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/Ranadipgithub/leetCode/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ranadipgithub/leetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |

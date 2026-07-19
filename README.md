@@ -220,6 +220,7 @@
 | [1463-cherry-pickup-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1463-cherry-pickup-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Ranadipgithub/leetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ranadipgithub/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ranadipgithub/leetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ranadipgithub/leetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1655,6 +1656,7 @@
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ranadipgithub/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ranadipgithub/leetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ranadipgithub/leetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1562-find-latest-group-of-size-m](https://github.com/Ranadipgithub/leetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ranadipgithub/leetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |

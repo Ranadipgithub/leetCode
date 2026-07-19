@@ -1,0 +1,31 @@
+class Solution {
+private:
+    long long calTotalHours(vector<int>& v, int hourly) {
+        long long totalH = 0; 
+        for (int i = 0; i < v.size(); i++) {
+            // totalH += (v[i] + hourly - 1) / hourly;
+            // if(v[i] % hourly == 0) totalH += v[i]/hourly;
+            // else totalH += 1+v[i]/hourly;
+            // ceil(a/b) = (a+b-1)/b
+            totalH += (v[i] + hourly - 1)/hourly;
+        }
+        return totalH;
+    }
+
+public:
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int low = 1, high = *max_element(piles.begin(), piles.end());
+        int ans = -1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            long long totalH = calTotalHours(piles, mid);
+            if (totalH <= h) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+        return ans;
+    }
+};

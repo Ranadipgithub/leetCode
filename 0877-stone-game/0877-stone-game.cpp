@@ -1,20 +1,17 @@
 class Solution {
 public:
+    int dp[501][501];
+    int solve(vector<int>&piles, int i, int j){
+        if(i > j) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+        int take_i = piles[i] + min(solve(piles, i+2, j), solve(piles, i+1, j-1));
+        int take_j = piles[j] + min(solve(piles, i, j-2), solve(piles, i+1, j-1));
+        return dp[i][j] = max(take_i, take_j);
+    }
     bool stoneGame(vector<int>& piles) {
-        // dp[i][j] will store the difference between scores of alice and bob
-        // dp[i][j] = max(piles[i] - dp[i+1][j], piles[j] - dp[i][j-1]);
-        int n = piles.size();
-        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
-        for(int i = 0;i<n;i++){
-            dp[i][i] = piles[i];
-        }
-        for(int i = n-2;i>=0;i--){
-            for(int j = 1;j<n;j++){
-                if(i != j){
-                    dp[i][j] = max(piles[i] - dp[i+1][j], piles[j] - dp[i][j-1]);
-                }
-            }
-        }
-        return dp[0][n-1] > 0;
+        memset(dp, -1, sizeof(dp));
+        int sum = accumulate(piles.begin(), piles.end(), 0);
+        int aliceScore = solve(piles, 0, piles.size()-1);
+        return aliceScore > sum/2;
     }
 };

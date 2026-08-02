@@ -137,6 +137,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/Ranadipgithub/leetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0874-walking-robot-simulation](https://github.com/Ranadipgithub/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Ranadipgithub/leetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Ranadipgithub/leetCode/tree/master/0877-stone-game) |
 | [0881-loud-and-rich](https://github.com/Ranadipgithub/leetCode/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1025,6 +1026,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ranadipgithub/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0877-stone-game](https://github.com/Ranadipgithub/leetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ranadipgithub/leetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1293,6 +1295,7 @@
 | [0670-maximum-swap](https://github.com/Ranadipgithub/leetCode/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/Ranadipgithub/leetCode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Ranadipgithub/leetCode/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Ranadipgithub/leetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Ranadipgithub/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ranadipgithub/leetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/Ranadipgithub/leetCode/tree/master/1012-numbers-with-repeated-digits) |
@@ -2691,6 +2694,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranadipgithub/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ranadipgithub/leetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |

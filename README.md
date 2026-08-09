@@ -749,6 +749,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1107,6 +1108,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ranadipgithub/leetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ranadipgithub/leetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ranadipgithub/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1609,6 +1611,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ranadipgithub/leetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ranadipgithub/leetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ranadipgithub/leetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ranadipgithub/leetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ranadipgithub/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1826,6 +1829,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/Ranadipgithub/leetCode/tree/master/2938-separate-black-and-white-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranadipgithub/leetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ranadipgithub/leetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

@@ -1098,6 +1098,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2719-count-of-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2719-count-of-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ranadipgithub/leetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ranadipgithub/leetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -1340,6 +1341,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ranadipgithub/leetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2719-count-of-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2719-count-of-integers) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ranadipgithub/leetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |

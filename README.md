@@ -712,6 +712,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranadipgithub/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1915-number-of-wonderful-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/1915-number-of-wonderful-substrings) |
+| [1927-sum-game](https://github.com/Ranadipgithub/leetCode/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -1326,6 +1327,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Ranadipgithub/leetCode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Ranadipgithub/leetCode/tree/master/1927-sum-game) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ranadipgithub/leetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ranadipgithub/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1596,6 +1598,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Ranadipgithub/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ranadipgithub/leetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Ranadipgithub/leetCode/tree/master/1927-sum-game) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ranadipgithub/leetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1975-maximum-matrix-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -2708,6 +2711,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranadipgithub/leetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ranadipgithub/leetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Ranadipgithub/leetCode/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |

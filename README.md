@@ -687,6 +687,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ranadipgithub/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ranadipgithub/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ranadipgithub/leetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ranadipgithub/leetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ranadipgithub/leetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1055,6 +1056,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ranadipgithub/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Ranadipgithub/leetCode/tree/master/1340-jump-game-v) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ranadipgithub/leetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -2284,6 +2286,7 @@
 | [0214-shortest-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Ranadipgithub/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
+| [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ranadipgithub/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |

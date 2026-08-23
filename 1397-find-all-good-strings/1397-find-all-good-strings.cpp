@@ -3,60 +3,43 @@ public:
     vector<int> lps;
     int dp[505][2][55];
     const int mod = 1e9+7;
-    void constructLps(string &pat) {
-        int len = 0;
-        lps[0] = 0;
-        int i = 1;
-        while (i < pat.length()) {
-            if (pat[i] == pat[len]) {
-                len++;
-                lps[i] = len;
-                i++;
-            }
-            else {
-                if (len != 0) {
-                    len = lps[len - 1];
-                }
-                else {
-                    lps[i] = 0;
-                    i++;
+    void constructLps(string &s){
+        int n = s.size();
+        int pre = 0, suff = 1;
+        while(suff < n){
+            if(s[pre] == s[suff]){
+                lps[suff] = pre+1;
+                pre++;
+                suff++;
+            } else {
+                if(pre == 0){
+                    suff++;
+                } else {
+                    pre = lps[pre-1];
                 }
             }
         }
     }
-
-    // Changed return type to bool
     bool search(string &pat, string &txt) {
-        int n = txt.length();
-        int m = pat.length();
-        
-        // Edge case: if pattern is empty, technically it's always found
-        if (m == 0) return true;
-        constructLps(pat);
-
-        int i = 0;
-        int j = 0;
-
-        while (i < n) {
-            if (txt[i] == pat[j]) {
-                i++;
-                j++;
-
-                // If the entire pattern is matched, return true immediately
-                if (j == m) {
-                    return true; 
+        int n = txt.size();
+        int first = 0, second = 0;
+        int m = pat.size();
+        vector<int> res;
+        while(first < n){
+            if(txt[first] == pat[second]){
+                first++;
+                second++;
+                if(second == m){
+                    return true;
+                }
+            } else {
+                if(second == 0) first++;
+                else {
+                    second = lps[second-1];
                 }
             }
-            else {
-                if (j != 0)
-                    j = lps[j - 1];
-                else
-                    i++;
-            }
         }
-        
-        // If the loop finishes and no match was found, return false
-        return false; 
+        return false;
     }
 
     int solve(string &s, string &evil, int idx, bool tight, int match_len){

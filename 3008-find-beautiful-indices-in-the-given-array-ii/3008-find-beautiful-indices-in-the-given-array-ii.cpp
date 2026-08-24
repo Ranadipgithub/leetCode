@@ -38,8 +38,8 @@ public:
     vector<int> beautifulIndices(string s, string a, string b, int k) {
         vector<int> indices1 = search(a, s);
         vector<int> indices2 = search(b, s);
-        for(auto it: indices1) cout << it << endl;
-        for(auto it: indices2) cout << it << endl;
+        // for(auto it: indices1) cout << it << endl;
+        // for(auto it: indices2) cout << it << endl;
         vector<int> res;
         // 16 33
         // 4  18

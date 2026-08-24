@@ -354,6 +354,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ranadipgithub/leetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranadipgithub/leetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ranadipgithub/leetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -2297,6 +2298,7 @@
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
 | [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ranadipgithub/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -2308,6 +2310,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
@@ -2676,6 +2679,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory

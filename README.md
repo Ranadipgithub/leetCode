@@ -747,6 +747,7 @@
 | [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2999-count-the-number-of-powerful-integers) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Ranadipgithub/leetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
@@ -2298,6 +2299,7 @@
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
 | [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -2310,6 +2312,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -2679,6 +2682,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ranadipgithub/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |

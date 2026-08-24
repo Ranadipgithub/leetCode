@@ -747,6 +747,7 @@
 | [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2999-count-the-number-of-powerful-integers) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1703,6 +1704,7 @@
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ranadipgithub/leetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/Ranadipgithub/leetCode/tree/master/2540-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3152-special-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3152-special-array-ii) |
 | [3161-block-placement-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1843,6 +1845,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/Ranadipgithub/leetCode/tree/master/2938-separate-black-and-white-balls) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Ranadipgithub/leetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranadipgithub/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -2300,6 +2303,7 @@
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
 | [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -2314,6 +2318,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -2685,6 +2690,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ranadipgithub/leetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -2806,4 +2812,16 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Ranadipgithub/leetCode/tree/master/1192-critical-connections-in-a-network) |
+## Z Algorithm
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->

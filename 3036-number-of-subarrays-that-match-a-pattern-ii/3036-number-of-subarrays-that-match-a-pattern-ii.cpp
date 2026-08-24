@@ -47,17 +47,19 @@ public:
         // 1 0 2 1 1 0 2 => pattern of 1 0 2 => 2
 
         string s = "";
+        s.reserve(nums.size());
         for(int i = 1;i<nums.size();i++){
             if(nums[i] > nums[i-1]){
-                s += "1";
+                s += '1';
             } else if(nums[i] == nums[i-1]){
-                s += "0";
-            } else s += "2";
+                s += '0';
+            } else s += '2';
         }
         string pat = "";
+        pat.reserve(pattern.size());
         for(int i = 0;i<pattern.size();i++){
-            if(pattern[i] == -1) pat += "2";
-            else pat += to_string(pattern[i]);
+            if(pattern[i] == -1) pat += '2';
+            else pat += (pattern[i] + '0');
         }
         return search(pat, s);
     }

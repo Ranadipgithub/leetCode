@@ -41,11 +41,11 @@ public:
                 }
             }
         }
-        for(auto it: adj){
-            cout << it.first << " ";
-            for(auto lt: it.second) cout << lt << " ";
-            cout << endl;
-        }
+        // for(auto it: adj){
+        //     cout << it.first << " ";
+        //     for(auto lt: it.second) cout << lt << " ";
+        //     cout << endl;
+        // }
         return solve(s, 0, adj);
     }
 };

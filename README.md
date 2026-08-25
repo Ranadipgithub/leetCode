@@ -729,6 +729,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2272-substring-with-largest-variance](https://github.com/Ranadipgithub/leetCode/tree/master/2272-substring-with-largest-variance) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -1099,6 +1100,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2272-substring-with-largest-variance](https://github.com/Ranadipgithub/leetCode/tree/master/2272-substring-with-largest-variance) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2484-count-palindromic-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/2484-count-palindromic-subsequences) |
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -2306,6 +2308,7 @@
 | [0812-rotate-string](https://github.com/Ranadipgithub/leetCode/tree/master/0812-rotate-string) |
 | [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -2322,6 +2325,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -2695,6 +2699,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Ranadipgithub/leetCode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ranadipgithub/leetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |

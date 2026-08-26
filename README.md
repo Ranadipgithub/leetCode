@@ -744,6 +744,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ranadipgithub/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Ranadipgithub/leetCode/tree/master/2938-separate-black-and-white-balls) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranadipgithub/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1466,6 +1467,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ranadipgithub/leetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ranadipgithub/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |

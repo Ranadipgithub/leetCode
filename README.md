@@ -314,6 +314,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ranadipgithub/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1110,6 +1111,7 @@
 | [2176-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2176-parallel-courses-iii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ranadipgithub/leetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2272-substring-with-largest-variance](https://github.com/Ranadipgithub/leetCode/tree/master/2272-substring-with-largest-variance) |
+| [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2484-count-palindromic-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/2484-count-palindromic-subsequences) |
@@ -1180,6 +1182,7 @@
 | [1980-find-unique-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ranadipgithub/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Breadth-First Search
@@ -1435,6 +1438,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1915-number-of-wonderful-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/1915-number-of-wonderful-substrings) |
+| [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -2083,6 +2087,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
+| [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Tree
 |  |
 | ------- |

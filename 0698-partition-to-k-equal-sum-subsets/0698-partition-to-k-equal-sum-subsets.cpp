@@ -20,6 +20,8 @@ public:
         int sum = accumulate(nums.begin(), nums.end(), 0);
         if(sum % k) return false;
         int target = sum / k;
+        sort(nums.rbegin(), nums.rend());
+        if(nums[0] > target) return false;
         dp.assign((1<<n), -1);
         return solve(0, 0, target, nums);
     }

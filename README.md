@@ -183,6 +183,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranadipgithub/leetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1125-smallest-sufficient-team](https://github.com/Ranadipgithub/leetCode/tree/master/1125-smallest-sufficient-team) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1185-find-in-mountain-array) |
@@ -1067,6 +1068,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranadipgithub/leetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/Ranadipgithub/leetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1125-smallest-sufficient-team](https://github.com/Ranadipgithub/leetCode/tree/master/1125-smallest-sufficient-team) |
 | [1129-longest-string-chain](https://github.com/Ranadipgithub/leetCode/tree/master/1129-longest-string-chain) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ranadipgithub/leetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Ranadipgithub/leetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -1431,6 +1433,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1009-complement-of-base-10-integer) |
+| [1125-smallest-sufficient-team](https://github.com/Ranadipgithub/leetCode/tree/master/1125-smallest-sufficient-team) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranadipgithub/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ranadipgithub/leetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
@@ -2088,6 +2091,7 @@
 | [0526-beautiful-arrangement](https://github.com/Ranadipgithub/leetCode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1125-smallest-sufficient-team](https://github.com/Ranadipgithub/leetCode/tree/master/1125-smallest-sufficient-team) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Tree

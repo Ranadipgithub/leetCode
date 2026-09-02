@@ -455,6 +455,7 @@
 | [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Ranadipgithub/leetCode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ranadipgithub/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ranadipgithub/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -1410,6 +1411,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranadipgithub/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Ranadipgithub/leetCode/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |

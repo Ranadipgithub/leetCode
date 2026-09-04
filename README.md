@@ -220,6 +220,7 @@
 | [1424-diagonal-traverse-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ranadipgithub/leetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/Ranadipgithub/leetCode/tree/master/1428-jump-game-iii) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ranadipgithub/leetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1447-jump-game-iv](https://github.com/Ranadipgithub/leetCode/tree/master/1447-jump-game-iv) |
 | [1463-cherry-pickup-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1463-cherry-pickup-ii) |
@@ -1086,6 +1087,7 @@
 | [1397-find-all-good-strings](https://github.com/Ranadipgithub/leetCode/tree/master/1397-find-all-good-strings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ranadipgithub/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ranadipgithub/leetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ranadipgithub/leetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ranadipgithub/leetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1463-cherry-pickup-ii) |
@@ -1440,6 +1442,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/Ranadipgithub/leetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1125-smallest-sufficient-team](https://github.com/Ranadipgithub/leetCode/tree/master/1125-smallest-sufficient-team) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranadipgithub/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Ranadipgithub/leetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranadipgithub/leetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -2098,6 +2101,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ranadipgithub/leetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Ranadipgithub/leetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/Ranadipgithub/leetCode/tree/master/1125-smallest-sufficient-team) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Tree
@@ -2883,4 +2887,16 @@
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Perfect Matching
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->

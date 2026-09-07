@@ -31,7 +31,7 @@ public:
                 }
             }
             dp[i] = (2LL * dp[i+1] + 1 - sub + mod) % mod;
-            cout << i << " " << sub << " " << dp[i] << endl;
+            // cout << i << " " << sub << " " << dp[i] << endl;
         }
         return dp[0];
     }

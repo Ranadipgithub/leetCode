@@ -731,6 +731,7 @@
 | [1927-sum-game](https://github.com/Ranadipgithub/leetCode/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ranadipgithub/leetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [1987-number-of-unique-good-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2032-largest-odd-number-in-string](https://github.com/Ranadipgithub/leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ranadipgithub/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ranadipgithub/leetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1117,6 +1118,7 @@
 | [1871-jump-game-vii](https://github.com/Ranadipgithub/leetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ranadipgithub/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ranadipgithub/leetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1987-number-of-unique-good-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/Ranadipgithub/leetCode/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranadipgithub/leetCode/tree/master/2054-two-best-non-overlapping-events) |

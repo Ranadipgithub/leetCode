@@ -255,6 +255,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Ranadipgithub/leetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ranadipgithub/leetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Ranadipgithub/leetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ranadipgithub/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Ranadipgithub/leetCode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -1111,6 +1112,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ranadipgithub/leetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranadipgithub/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Ranadipgithub/leetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Ranadipgithub/leetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ranadipgithub/leetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Ranadipgithub/leetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -1194,6 +1196,7 @@
 | [0773-sliding-puzzle](https://github.com/Ranadipgithub/leetCode/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ranadipgithub/leetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ranadipgithub/leetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Ranadipgithub/leetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/Ranadipgithub/leetCode/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ranadipgithub/leetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ranadipgithub/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1456,6 +1459,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranadipgithub/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Ranadipgithub/leetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1915-number-of-wonderful-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/1915-number-of-wonderful-substrings) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ranadipgithub/leetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -2111,6 +2115,7 @@
 | [1125-smallest-sufficient-team](https://github.com/Ranadipgithub/leetCode/tree/master/1125-smallest-sufficient-team) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ranadipgithub/leetCode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Ranadipgithub/leetCode/tree/master/1494-parallel-courses-ii) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Ranadipgithub/leetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Tree
 |  |

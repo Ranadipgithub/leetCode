@@ -371,6 +371,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranadipgithub/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranadipgithub/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ranadipgithub/leetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ranadipgithub/leetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1144,6 +1145,7 @@
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ranadipgithub/leetCode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Ranadipgithub/leetCode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ranadipgithub/leetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ranadipgithub/leetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ranadipgithub/leetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ranadipgithub/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -1470,6 +1472,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Ranadipgithub/leetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Ranadipgithub/leetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ranadipgithub/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ranadipgithub/leetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Ranadipgithub/leetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1528,6 +1531,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ranadipgithub/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ranadipgithub/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ranadipgithub/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ranadipgithub/leetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ranadipgithub/leetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ranadipgithub/leetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -1760,6 +1764,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ranadipgithub/leetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Ranadipgithub/leetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ranadipgithub/leetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3152-special-array-ii](https://github.com/Ranadipgithub/leetCode/tree/master/3152-special-array-ii) |
 | [3161-block-placement-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1991,6 +1996,7 @@
 | [1294-range-frequency-queries](https://github.com/Ranadipgithub/leetCode/tree/master/1294-range-frequency-queries) |
 | [1622-fancy-sequence](https://github.com/Ranadipgithub/leetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ranadipgithub/leetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3161-block-placement-queries](https://github.com/Ranadipgithub/leetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ranadipgithub/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Ranadipgithub/leetCode/tree/master/3184-maximum-balanced-subsequence-sum) |

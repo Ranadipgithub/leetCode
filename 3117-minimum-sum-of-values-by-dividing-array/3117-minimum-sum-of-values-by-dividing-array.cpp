@@ -9,6 +9,7 @@ public:
         if(j == vals.size()) return 1e9;
         if(dp[i][j].count(curr)) return dp[i][j][curr];
         int ans = solve(i+1, j, curr&nums[i], nums, vals);
+        if((curr & nums[i]) < vals[j]) return 1e9;
         if((curr & nums[i]) == vals[j]){
             ans = min(ans, nums[i] + solve(i+1, j+1, (1<<17) -1, nums, vals));
         }

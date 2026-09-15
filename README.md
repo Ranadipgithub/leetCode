@@ -748,6 +748,7 @@
 | [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Ranadipgithub/leetCode/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ranadipgithub/leetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2484-count-palindromic-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/2484-count-palindromic-subsequences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ranadipgithub/leetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1131,6 +1132,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/Ranadipgithub/leetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/2430-maximum-deletions-on-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/Ranadipgithub/leetCode/tree/master/2484-count-palindromic-subsequences) |
 | [2504-find-all-good-indices](https://github.com/Ranadipgithub/leetCode/tree/master/2504-find-all-good-indices) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ranadipgithub/leetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -1664,6 +1666,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ranadipgithub/leetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ranadipgithub/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ranadipgithub/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ranadipgithub/leetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Ranadipgithub/leetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranadipgithub/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1893,6 +1896,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ranadipgithub/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranadipgithub/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranadipgithub/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Ranadipgithub/leetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Ranadipgithub/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ranadipgithub/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |

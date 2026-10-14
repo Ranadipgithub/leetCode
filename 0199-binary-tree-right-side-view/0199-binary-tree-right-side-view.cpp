@@ -11,15 +11,21 @@
  */
 class Solution {
 public:
-    void solve(TreeNode *root, int level, vector<int>&res){
-        if(root == NULL) return;
-        if(level == res.size()) res.push_back(root->val);
-        solve(root->right, level+1, res);
-        solve(root->left, level+1, res);
-    }
     vector<int> rightSideView(TreeNode* root) {
+        if(root == NULL) return {};
+        queue<TreeNode *>q;
+        q.push(root);
         vector<int> res;
-        solve(root, 0, res);
+        while(!q.empty()){
+            int size = q.size();
+            for(int i = 0;i<size;i++){
+                TreeNode *node = q.front();
+                q.pop();
+                if(i == size-1) res.push_back(node->val);
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            }
+        }
         return res;
     }
 };

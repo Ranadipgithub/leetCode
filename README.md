@@ -811,6 +811,7 @@
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Ranadipgithub/leetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3838-weighted-word-mapping](https://github.com/Ranadipgithub/leetCode/tree/master/3838-weighted-word-mapping) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Ranadipgithub/leetCode/tree/master/3844-longest-almost-palindromic-substring) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ranadipgithub/leetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ranadipgithub/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Ranadipgithub/leetCode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Counting
